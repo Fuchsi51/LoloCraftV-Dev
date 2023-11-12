@@ -1,0 +1,3609 @@
+{
+  "mod_elements": [
+    {
+      "name": "GalaxyWood",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_wood",
+      "path": "~/Biom/Galaxy Biom/Blocks"
+    },
+    {
+      "name": "GalaxyLog",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_log",
+      "path": "~/Biom/Galaxy Biom/Blocks"
+    },
+    {
+      "name": "GalaxyPlanks",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_planks",
+      "path": "~/Biom/Galaxy Biom/Blocks"
+    },
+    {
+      "name": "GalaxyLeaves",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_leaves",
+      "path": "~/Biom/Galaxy Biom/Blocks"
+    },
+    {
+      "name": "GalaxyStairs",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_stairs",
+      "path": "~/Biom/Galaxy Biom/Blocks"
+    },
+    {
+      "name": "GalaxySlab",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_slab",
+      "path": "~/Biom/Galaxy Biom/Blocks"
+    },
+    {
+      "name": "GalaxyFence",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_fence",
+      "path": "~/Biom/Galaxy Biom/Blocks"
+    },
+    {
+      "name": "GalaxyFenceGate",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_fence_gate",
+      "path": "~/Biom/Galaxy Biom/Blocks"
+    },
+    {
+      "name": "GalaxyPressurePlate",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_pressure_plate",
+      "path": "~/Biom/Galaxy Biom/Blocks"
+    },
+    {
+      "name": "GalaxyButton",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_button",
+      "path": "~/Biom/Galaxy Biom/Blocks"
+    },
+    {
+      "name": "GalaxyItemsTag",
+      "type": "tag",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_items_tag",
+      "path": "~/Biom/Galaxy Biom/Blocks"
+    },
+    {
+      "name": "GalaxyWoodRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_wood_recipe",
+      "path": "~/Biom/Galaxy Biom/Blocks"
+    },
+    {
+      "name": "GalaxyPlanksRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_planks_recipe",
+      "path": "~/Biom/Galaxy Biom/Blocks"
+    },
+    {
+      "name": "GalaxyFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_fence_gate_recipe",
+      "path": "~/Biom/Galaxy Biom/Blocks"
+    },
+    {
+      "name": "GalaxyPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_pressure_plate_recipe",
+      "path": "~/Biom/Galaxy Biom/Blocks"
+    },
+    {
+      "name": "GalaxyButtonRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_button_recipe",
+      "path": "~/Biom/Galaxy Biom/Blocks"
+    },
+    {
+      "name": "GalaxyStickRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_stick_recipe",
+      "path": "~/Biom/Galaxy Biom/Blocks"
+    },
+    {
+      "name": "Galaxydirt",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxygrass",
+      "path": "~/etc."
+    },
+    {
+      "name": "LoloCraftV",
+      "type": "tab",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lolo_craft_v",
+      "path": "~/etc."
+    },
+    {
+      "name": "Galaxydirtmain",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxydirtmain",
+      "path": "~/etc."
+    },
+    {
+      "name": "Galaxyingot",
+      "type": "item",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxyingot",
+      "path": "~/Biom/Galaxy Biom/ore"
+    },
+    {
+      "name": "Galaxybiom",
+      "type": "biome",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxybiom",
+      "path": "~/Biom/Galaxy Biom/Main"
+    },
+    {
+      "name": "Galaxyore",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxyore",
+      "path": "~/Biom/Galaxy Biom/Blocks"
+    },
+    {
+      "name": "GalaxyPickaxe",
+      "type": "tool",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_pickaxe",
+      "path": "~/Biom/Galaxy Biom/Stuff"
+    },
+    {
+      "name": "GalaxyAxe",
+      "type": "tool",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_axe",
+      "path": "~/Biom/Galaxy Biom/Stuff"
+    },
+    {
+      "name": "GalaxySword",
+      "type": "tool",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_sword",
+      "path": "~/Biom/Galaxy Biom/Stuff"
+    },
+    {
+      "name": "GalaxyShovel",
+      "type": "tool",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_shovel",
+      "path": "~/Biom/Galaxy Biom/Stuff"
+    },
+    {
+      "name": "GalaxyHoe",
+      "type": "tool",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_hoe",
+      "path": "~/Biom/Galaxy Biom/Stuff"
+    },
+    {
+      "name": "GalaxyPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_pickaxe_recipe",
+      "path": "~/Biom/Galaxy Biom/Stuff"
+    },
+    {
+      "name": "GalaxyAxeRecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_axe_recipe",
+      "path": "~/Biom/Galaxy Biom/Stuff"
+    },
+    {
+      "name": "GalaxySwordRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_sword_recipe",
+      "path": "~/Biom/Galaxy Biom/Stuff"
+    },
+    {
+      "name": "GalaxyShovelRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_shovel_recipe",
+      "path": "~/Biom/Galaxy Biom/Stuff"
+    },
+    {
+      "name": "GalaxyHoeRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_hoe_recipe",
+      "path": "~/Biom/Galaxy Biom/Stuff"
+    },
+    {
+      "name": "Galaxytree",
+      "type": "structure",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxytree",
+      "path": "~/Biom/Galaxy Biom/Main"
+    },
+    {
+      "name": "GalaxyCow",
+      "type": "livingentity",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_cow",
+      "path": "~/Biom/Galaxy Biom/entity"
+    },
+    {
+      "name": "Adv01",
+      "type": "achievement",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adv_01",
+      "path": "~/Adv"
+    },
+    {
+      "name": "Adv02",
+      "type": "achievement",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adv_02",
+      "path": "~/Adv"
+    },
+    {
+      "name": "Adv03",
+      "type": "achievement",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adv_03",
+      "path": "~/Adv"
+    },
+    {
+      "name": "Craftbank",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftbank",
+      "path": "~/Biom/Galaxy Biom/Blocks"
+    },
+    {
+      "name": "GalaxyCreeper",
+      "type": "livingentity",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_creeper",
+      "path": "~/Biom/Galaxy Biom/entity"
+    },
+    {
+      "name": "GalaxyCreeperWennSpielerMitDieserEinheitZusammenstosst",
+      "type": "procedure",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_creeper_wenn_spieler_mit_dieser_einheit_zusammenstosst",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Biom/Galaxy Biom/entity/prod"
+    },
+    {
+      "name": "Enderstruck",
+      "type": "structure",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enderstruck",
+      "path": "~/Biom/Galaxy Biom/struckture"
+    },
+    {
+      "name": "GalaxyHills",
+      "type": "biome",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_hills",
+      "path": "~/Biom/Galaxy Biom/Main"
+    },
+    {
+      "name": "Adv04",
+      "type": "achievement",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adv_04",
+      "path": "~/Adv"
+    },
+    {
+      "name": "Adv05",
+      "type": "achievement",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adv_05",
+      "path": "~/Adv"
+    },
+    {
+      "name": "Adv06",
+      "type": "achievement",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adv_06",
+      "path": "~/Adv"
+    },
+    {
+      "name": "Galaxydust",
+      "type": "item",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxydust",
+      "path": "~/Biom/Galaxy Biom/Stuff"
+    },
+    {
+      "name": "Adv01hills",
+      "type": "achievement",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adv_01hills",
+      "path": "~/Adv"
+    },
+    {
+      "name": "Adv07",
+      "type": "achievement",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adv_07",
+      "path": "~/Adv"
+    },
+    {
+      "name": "Villiger01",
+      "type": "villagertrade",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "villiger_01",
+      "path": "~/Villiger"
+    },
+    {
+      "name": "Adv08",
+      "type": "achievement",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adv_08",
+      "path": "~/Adv"
+    },
+    {
+      "name": "BossBlock",
+      "type": "block",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boss_block",
+      "path": "~/endboss"
+    },
+    {
+      "name": "Adv09",
+      "type": "achievement",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adv_09",
+      "path": "~/Adv"
+    },
+    {
+      "name": "Adv10",
+      "type": "achievement",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adv_10",
+      "path": "~/Adv"
+    },
+    {
+      "name": "Devgui",
+      "type": "gui",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "devgui",
+      "path": "~/dev"
+    },
+    {
+      "name": "Galaxypig",
+      "type": "livingentity",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxypig",
+      "path": "~/Biom/Galaxy Biom/entity"
+    },
+    {
+      "name": "Adv11",
+      "type": "achievement",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adv_11",
+      "path": "~/Adv"
+    },
+    {
+      "name": "GalaxydustPlayerFinishesUsingItem",
+      "type": "procedure",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxydust_player_finishes_using_item",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Biom/Galaxy Biom/Stuff/Prod"
+    },
+    {
+      "name": "Galaxydustblock",
+      "type": "block",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxydustblock",
+      "path": "~/Biom/Galaxy Biom/Stuff"
+    },
+    {
+      "name": "MegagalaxydustbombRedstoneAn",
+      "type": "procedure",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "megagalaxydustbomb_redstone_an",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Biom/Galaxy Biom/Stuff/Prod"
+    },
+    {
+      "name": "Megagalaxydustbomb",
+      "type": "block",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "megagalaxydustbomb",
+      "path": "~/Biom/Galaxy Biom/Stuff/Prod"
+    },
+    {
+      "name": "GalaxydustBeiRechtsklick",
+      "type": "procedure",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxydust_bei_rechtsklick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Biom/Galaxy Biom/Stuff/Prod"
+    },
+    {
+      "name": "CraftGalaxyTNT",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_galaxy_tnt",
+      "path": "~/Biom/Galaxy Biom/Stuff"
+    },
+    {
+      "name": "CraftMegaGalaxyTNT",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_mega_galaxy_tnt",
+      "path": "~/Biom/Galaxy Biom/Stuff"
+    },
+    {
+      "name": "NucleaGalaxyTNTRedstoneAn",
+      "type": "procedure",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nuclea_galaxy_tnt_redstone_an",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Biom/Galaxy Biom/Stuff/Nuclea TNT"
+    },
+    {
+      "name": "NucleaGalaxyTNT",
+      "type": "block",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nuclea_galaxy_tnt",
+      "path": "~/Biom/Galaxy Biom/Stuff/Nuclea TNT"
+    },
+    {
+      "name": "Adv12",
+      "type": "achievement",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adv_12",
+      "path": "~/Adv"
+    },
+    {
+      "name": "Adv13",
+      "type": "achievement",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adv_13",
+      "path": "~/Adv"
+    },
+    {
+      "name": "Adv14",
+      "type": "achievement",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adv_14",
+      "path": "~/Adv"
+    },
+    {
+      "name": "GalaxySwordWennLebewesenMitWerkzeugGeschlagenWird",
+      "type": "procedure",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_sword_wenn_lebewesen_mit_werkzeug_geschlagen_wird",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Biom/Galaxy Biom/Stuff/Prod"
+    },
+    {
+      "name": "Craftgalaxyingot",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftgalaxyingot",
+      "path": "~/Biom/Galaxy Biom/ore"
+    },
+    {
+      "name": "GalaxyFlower",
+      "type": "block",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_flower",
+      "path": "~/endboss"
+    },
+    {
+      "name": "CraftNucleaGalaxyTNT",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_nuclea_galaxy_tnt",
+      "path": "~/Biom/Galaxy Biom/Stuff/Nuclea TNT"
+    },
+    {
+      "name": "WilliHouse",
+      "type": "structure",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "willi_house",
+      "path": "~/Biom/Galaxy Biom/struckture"
+    },
+    {
+      "name": "Willi",
+      "type": "livingentity",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "willi",
+      "path": "~/endboss"
+    },
+    {
+      "name": "WilliMagicwandWennGeschossAufSpielerTrifft",
+      "type": "procedure",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "willi_magicwand_wenn_geschoss_auf_spieler_trifft",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/endboss"
+    },
+    {
+      "name": "WilliMagicwandGeschossFliegtTick",
+      "type": "procedure",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "willi_magicwand_geschoss_fliegt_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/endboss"
+    },
+    {
+      "name": "WilliMagicwand",
+      "type": "rangeditem",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "willi_magicwand",
+      "path": "~/endboss"
+    },
+    {
+      "name": "BossBlockWennBlockRechtsGeklicktWird",
+      "type": "procedure",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boss_block_wenn_block_rechts_geklickt_wird",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/endboss"
+    },
+    {
+      "name": "GalaxyArmor",
+      "type": "armor",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Armor"
+    },
+    {
+      "name": "GalaxyArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_armor_helmet_recipe",
+      "path": "~/Armor"
+    },
+    {
+      "name": "GalaxyArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_armor_body_recipe",
+      "path": "~/Armor"
+    },
+    {
+      "name": "GalaxyArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_armor_leggings_recipe",
+      "path": "~/Armor"
+    },
+    {
+      "name": "GalaxyArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_armor_boots_recipe",
+      "path": "~/Armor"
+    },
+    {
+      "name": "Adv15",
+      "type": "achievement",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adv_15",
+      "path": "~/Adv"
+    },
+    {
+      "name": "Adv16",
+      "type": "achievement",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adv_16",
+      "path": "~/Adv"
+    },
+    {
+      "name": "Craftstairs",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftstairs",
+      "path": "~/Biom/Galaxy Biom/Blocks"
+    },
+    {
+      "name": "Craftgalaxysleb",
+      "type": "recipe",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftgalaxysleb",
+      "path": "~/Biom/Galaxy Biom/Blocks"
+    },
+    {
+      "name": "Craftgalaxyfencegate",
+      "type": "recipe",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftgalaxyfencegate",
+      "path": "~/Biom/Galaxy Biom/Blocks"
+    },
+    {
+      "name": "Gm1prod",
+      "type": "procedure",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gm_1prod",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/FastAdmin/prod"
+    },
+    {
+      "name": "Gm0prod",
+      "type": "procedure",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gm_0prod",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/FastAdmin/prod"
+    },
+    {
+      "name": "Gm3prod",
+      "type": "procedure",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gm_3prod",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/FastAdmin/prod"
+    },
+    {
+      "name": "Gm2prod",
+      "type": "procedure",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gm_2prod",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/FastAdmin/prod"
+    },
+    {
+      "name": "Gm1",
+      "type": "command",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gm_1",
+      "path": "~/FastAdmin"
+    },
+    {
+      "name": "Gm0",
+      "type": "command",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gm_0",
+      "path": "~/FastAdmin"
+    },
+    {
+      "name": "Gm2",
+      "type": "command",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gm_2",
+      "path": "~/FastAdmin"
+    },
+    {
+      "name": "Gm3",
+      "type": "command",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gm_3",
+      "path": "~/FastAdmin"
+    },
+    {
+      "name": "Timeday",
+      "type": "procedure",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "timedayprod",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/FastAdmin/prod"
+    },
+    {
+      "name": "Timenight",
+      "type": "procedure",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "timenightprod",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/FastAdmin/prod"
+    },
+    {
+      "name": "Timedaycomm",
+      "type": "command",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "timedaycomm",
+      "path": "~/FastAdmin"
+    },
+    {
+      "name": "Timenightcom",
+      "type": "command",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "timenightcom",
+      "path": "~/FastAdmin"
+    },
+    {
+      "name": "Crafttabel",
+      "type": "recipe",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafttabel",
+      "path": "~/Biom/Galaxy Biom/Blocks"
+    },
+    {
+      "name": "GalaxyexplodeswordWennLebewesenMitWerkzeugGeschlagenWird",
+      "type": "procedure",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxyexplodesword_wenn_lebewesen_mit_werkzeug_geschlagen_wird",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "sourceentity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Biom/Galaxy Biom/Stuff/Prod"
+    },
+    {
+      "name": "Galaxyexplodesword",
+      "type": "tool",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxyexplodesword",
+      "path": "~/Biom/Galaxy Biom/Stuff"
+    },
+    {
+      "name": "Craftexplodesword",
+      "type": "recipe",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftexplodesword",
+      "path": "~/Biom/Galaxy Biom/Stuff"
+    },
+    {
+      "name": "Galaxychestgui",
+      "type": "gui",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxychestgui",
+      "path": "~/Biom/Galaxy Biom/store"
+    },
+    {
+      "name": "Testchest",
+      "type": "block",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "testchest",
+      "path": "~/Biom/Galaxy Biom/store"
+    },
+    {
+      "name": "Betagui",
+      "type": "gui",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "betagui",
+      "path": "~/Gui"
+    },
+    {
+      "name": "Openbetamenuprop",
+      "type": "procedure",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "openbetamenuprop",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Gui"
+    },
+    {
+      "name": "Openbetamenu",
+      "type": "command",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "openbetamenu",
+      "path": "~/Gui"
+    },
+    {
+      "name": "Betamenu",
+      "type": "gamerule",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "betamenu",
+      "metadata": {
+        "type": "logic"
+      },
+      "path": "~/Config"
+    },
+    {
+      "name": "Biggalaxycreeperexplosion",
+      "type": "gamerule",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "biggalaxycreeperexplosion",
+      "metadata": {
+        "type": "logic"
+      },
+      "path": "~/Config"
+    },
+    {
+      "name": "Lcdebug",
+      "type": "gamerule",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lcdebug",
+      "metadata": {
+        "type": "logic"
+      },
+      "path": "~/Config"
+    },
+    {
+      "name": "Startinfo",
+      "type": "procedure",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "startinfo",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/start"
+    },
+    {
+      "name": "Templatedebug",
+      "type": "procedure",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "templatedebug",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/debug"
+    },
+    {
+      "name": "GalaxyCowWennEntitatStirbt",
+      "type": "procedure",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_cow_wenn_entitat_stirbt",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Biom/Galaxy Biom/entity/prod"
+    },
+    {
+      "name": "GalaxypigWennEntitatStirbt",
+      "type": "procedure",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxypig_wenn_entitat_stirbt",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Biom/Galaxy Biom/entity/prod"
+    },
+    {
+      "name": "Lcfastadmin",
+      "type": "gamerule",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lcfastadmin",
+      "metadata": {
+        "type": "logic"
+      },
+      "path": "~/Config"
+    },
+    {
+      "name": "Lcinfomessage",
+      "type": "gamerule",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lcinfomessage",
+      "metadata": {
+        "type": "logic"
+      },
+      "path": "~/Config"
+    },
+    {
+      "name": "Turnfastadminodd",
+      "type": "procedure",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turnfastadminodd",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/FastAdmin/prod"
+    },
+    {
+      "name": "Fastadmingui",
+      "type": "gui",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fastadmingui",
+      "path": "~/FastAdmin"
+    },
+    {
+      "name": "Fastadmincommand",
+      "type": "procedure",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fastadmincommand",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/FastAdmin/prod"
+    },
+    {
+      "name": "Fastadminmenu",
+      "type": "command",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fastadminmenu",
+      "path": "~/FastAdmin/prod"
+    },
+    {
+      "name": "SERVERSTART",
+      "type": "procedure",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "serverstart",
+      "metadata": {
+        "dependencies": []
+      },
+      "path": "~/start"
+    },
+    {
+      "name": "Craftchest",
+      "type": "recipe",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftchest",
+      "path": "~/Biom/Galaxy Biom/store"
+    },
+    {
+      "name": "Adv17",
+      "type": "achievement",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adv_17",
+      "path": "~/Adv"
+    },
+    {
+      "name": "Fox_Coin",
+      "type": "item",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fox_coin",
+      "path": "~/Biom/Galaxy Biom/ore/Fox_Coin"
+    },
+    {
+      "name": "Fox_CoinOre",
+      "type": "block",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fox_coin_ore",
+      "path": "~/Biom/Galaxy Biom/ore/Fox_Coin"
+    },
+    {
+      "name": "Fox_CoinBlock",
+      "type": "block",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fox_coin_block",
+      "path": "~/Biom/Galaxy Biom/ore/Fox_Coin"
+    },
+    {
+      "name": "Fox_CoinOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fox_coin_ore_block_recipe",
+      "path": "~/Biom/Galaxy Biom/ore/Fox_Coin"
+    },
+    {
+      "name": "Fox_CoinBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fox_coin_block_ore_recipe",
+      "path": "~/Biom/Galaxy Biom/ore/Fox_Coin"
+    },
+    {
+      "name": "Fox_CoinOreSmelting",
+      "type": "recipe",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fox_coin_ore_smelting",
+      "path": "~/Biom/Galaxy Biom/ore/Fox_Coin"
+    },
+    {
+      "name": "GalaxyMultiTool",
+      "type": "tool",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_multi_tool",
+      "path": "~/Biom/Galaxy Biom/Stuff"
+    },
+    {
+      "name": "Galaxy_JungleWood",
+      "type": "block",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_jungle_wood",
+      "path": "~/Biom/Galaxy Jungle/Wood"
+    },
+    {
+      "name": "Galaxy_JungleLog",
+      "type": "block",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_jungle_log",
+      "path": "~/Biom/Galaxy Jungle/Wood"
+    },
+    {
+      "name": "Galaxy_JunglePlanks",
+      "type": "block",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_jungle_planks",
+      "path": "~/Biom/Galaxy Jungle/Wood"
+    },
+    {
+      "name": "Galaxy_JungleLeaves",
+      "type": "block",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_jungle_leaves",
+      "path": "~/Biom/Galaxy Jungle/Wood"
+    },
+    {
+      "name": "Galaxy_JungleStairs",
+      "type": "block",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_jungle_stairs",
+      "path": "~/Biom/Galaxy Jungle/Wood"
+    },
+    {
+      "name": "Galaxy_JungleSlab",
+      "type": "block",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_jungle_slab",
+      "path": "~/Biom/Galaxy Jungle/Wood"
+    },
+    {
+      "name": "Galaxy_JungleFence",
+      "type": "block",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_jungle_fence",
+      "path": "~/Biom/Galaxy Jungle/Wood"
+    },
+    {
+      "name": "Galaxy_JungleFenceGate",
+      "type": "block",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_jungle_fence_gate",
+      "path": "~/Biom/Galaxy Jungle/Wood"
+    },
+    {
+      "name": "Galaxy_JunglePressurePlate",
+      "type": "block",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_jungle_pressure_plate",
+      "path": "~/Biom/Galaxy Jungle/Wood"
+    },
+    {
+      "name": "Galaxy_JungleButton",
+      "type": "block",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_jungle_button",
+      "path": "~/Biom/Galaxy Jungle/Wood"
+    },
+    {
+      "name": "Galaxy_JungleItemsTag",
+      "type": "tag",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_jungle_items_tag",
+      "path": "~/Biom/Galaxy Jungle/Wood"
+    },
+    {
+      "name": "Galaxy_JungleWoodRecipe",
+      "type": "recipe",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_jungle_wood_recipe",
+      "path": "~/Biom/Galaxy Jungle/Wood"
+    },
+    {
+      "name": "Galaxy_JunglePlanksRecipe",
+      "type": "recipe",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_jungle_planks_recipe",
+      "path": "~/Biom/Galaxy Jungle/Wood"
+    },
+    {
+      "name": "Galaxy_JungleStairsRecipe",
+      "type": "recipe",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_jungle_stairs_recipe",
+      "path": "~/Biom/Galaxy Jungle/Wood"
+    },
+    {
+      "name": "Galaxy_JungleSlabRecipe",
+      "type": "recipe",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_jungle_slab_recipe",
+      "path": "~/Biom/Galaxy Jungle/Wood"
+    },
+    {
+      "name": "Galaxy_JungleFenceRecipe",
+      "type": "recipe",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_jungle_fence_recipe",
+      "path": "~/Biom/Galaxy Jungle/Wood"
+    },
+    {
+      "name": "Galaxy_JungleFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_jungle_fence_gate_recipe",
+      "path": "~/Biom/Galaxy Jungle/Wood"
+    },
+    {
+      "name": "Galaxy_JunglePressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_jungle_pressure_plate_recipe",
+      "path": "~/Biom/Galaxy Jungle/Wood"
+    },
+    {
+      "name": "Galaxy_JungleButtonRecipe",
+      "type": "recipe",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_jungle_button_recipe",
+      "path": "~/Biom/Galaxy Jungle/Wood"
+    },
+    {
+      "name": "Galaxy_JungleStickRecipe",
+      "type": "recipe",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_jungle_stick_recipe",
+      "path": "~/Biom/Galaxy Jungle/Wood"
+    },
+    {
+      "name": "LoloCraftVGalaxyJungle",
+      "type": "tab",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lolo_craft_v_galaxy_jungle",
+      "path": "~/Biom/Galaxy Jungle/etc"
+    },
+    {
+      "name": "Craftcraftingtable",
+      "type": "recipe",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftcraftingtable",
+      "path": "~/Biom/Galaxy Jungle/Wood"
+    },
+    {
+      "name": "Craftstick",
+      "type": "recipe",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftstick",
+      "path": "~/Biom/Galaxy Jungle/Wood"
+    },
+    {
+      "name": "GalaxyJungle",
+      "type": "biome",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_jungle",
+      "path": "~/Biom/Galaxy Jungle/Main"
+    },
+    {
+      "name": "Junglebaum",
+      "type": "structure",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "junglebaum",
+      "path": "~/Biom/Galaxy Jungle/Struck"
+    },
+    {
+      "name": "Junglebaummini",
+      "type": "structure",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "junglebaummini",
+      "path": "~/Biom/Galaxy Jungle/Struck"
+    },
+    {
+      "name": "Junglebaumbush",
+      "type": "structure",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "junglebaumbush",
+      "path": "~/Biom/Galaxy Jungle/Struck"
+    },
+    {
+      "name": "GalaxyMegaNuceRedstoneAn",
+      "type": "procedure",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_mega_nuce_redstone_an",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Biom/Galaxy Biom/Stuff/Prod"
+    },
+    {
+      "name": "GalaxyMegaNuce",
+      "type": "block",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_mega_nuce",
+      "path": "~/Biom/Galaxy Biom/Stuff/Nuclea TNT"
+    },
+    {
+      "name": "Adv18",
+      "type": "achievement",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adv_18",
+      "path": "~/Adv"
+    },
+    {
+      "name": "Lcvinfo",
+      "type": "command",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lcvinfo",
+      "path": "~/dev"
+    },
+    {
+      "name": "Opendev",
+      "type": "procedure",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "opendev",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/dev"
+    },
+    {
+      "name": "Betacontant",
+      "type": "gamerule",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "betacontant",
+      "metadata": {
+        "type": "logic"
+      },
+      "path": "~/Config"
+    },
+    {
+      "name": "GalaxyDesert",
+      "type": "biome",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_desert",
+      "path": "~/Biom/Galaxy Desert/Main"
+    },
+    {
+      "name": "Adv19",
+      "type": "achievement",
+      "sortid": 189,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adv_19",
+      "path": "~/Adv"
+    },
+    {
+      "name": "GalaxyJungleCreeper",
+      "type": "livingentity",
+      "sortid": 190,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_jungle_creeper",
+      "path": "~/Biom/Galaxy Jungle/Mobs"
+    },
+    {
+      "name": "WEAPONTRADEGUI1",
+      "type": "gui",
+      "sortid": 191,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "weapongui_main",
+      "path": "~/MOD_TRADER/TRADER_WEAPON/GUI"
+    },
+    {
+      "name": "WEAPONTRADEGUIBUY",
+      "type": "gui",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "weapontradeguibuy",
+      "path": "~/MOD_TRADER/TRADER_WEAPON/GUI"
+    },
+    {
+      "name": "ToolTipps",
+      "type": "procedure",
+      "sortid": 193,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tool_tipps",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "tooltip",
+            "type": "tooltip"
+          }
+        ]
+      },
+      "path": "~/etc."
+    },
+    {
+      "name": "Adv20",
+      "type": "achievement",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adv_20",
+      "path": "~/Adv"
+    },
+    {
+      "name": "TRADERWennRechtsAufEinheitGeklicktWird",
+      "type": "procedure",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "trader_wenn_rechts_auf_einheit_geklickt_wird",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/MOD_TRADER/TRADER_WEAPON/PROCEDURE"
+    },
+    {
+      "name": "TRADEOPENGUIBUY",
+      "type": "procedure",
+      "sortid": 195,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tradeopenguibuy",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/MOD_TRADER/TRADER_WEAPON/PROCEDURE"
+    },
+    {
+      "name": "BUYGES",
+      "type": "procedure",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "buyges",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/MOD_TRADER/TRADER_WEAPON/PROCEDURE/Buy"
+    },
+    {
+      "name": "BUYMULTI",
+      "type": "procedure",
+      "sortid": 197,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "buymulti",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/MOD_TRADER/TRADER_WEAPON/PROCEDURE/Buy"
+    },
+    {
+      "name": "BUYGS",
+      "type": "procedure",
+      "sortid": 198,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "buygs",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/MOD_TRADER/TRADER_WEAPON/PROCEDURE/Buy"
+    },
+    {
+      "name": "BUYMAGIC",
+      "type": "procedure",
+      "sortid": 199,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "buymagic",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/MOD_TRADER/TRADER_WEAPON/PROCEDURE/Buy"
+    },
+    {
+      "name": "StrucktureBlock",
+      "type": "procedure",
+      "sortid": 201,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "struckture_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/UPDATE_LUCKY_BLOCK/Loot"
+    },
+    {
+      "name": "StrucktureLuckyBlock",
+      "type": "block",
+      "sortid": 202,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "struckture_lucky_block",
+      "path": "~/UPDATE_LUCKY_BLOCK/Blocks"
+    },
+    {
+      "name": "Luckyweaponblock",
+      "type": "procedure",
+      "sortid": 203,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "luckyweaponblock",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/UPDATE_LUCKY_BLOCK/Loot"
+    },
+    {
+      "name": "Weaponluckyblock",
+      "type": "block",
+      "sortid": 204,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "weaponluckyblock",
+      "path": "~/UPDATE_LUCKY_BLOCK/Blocks"
+    },
+    {
+      "name": "LuckyFunBlock",
+      "type": "procedure",
+      "sortid": 205,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lucky_fun_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/UPDATE_LUCKY_BLOCK/Loot"
+    },
+    {
+      "name": "LuckyFunBlockBlock",
+      "type": "block",
+      "sortid": 206,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lucky_fun_block_block",
+      "path": "~/UPDATE_LUCKY_BLOCK/Blocks"
+    },
+    {
+      "name": "LCPLUS",
+      "type": "gui",
+      "sortid": 207,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lcplus",
+      "path": "~/LC_PLUS"
+    },
+    {
+      "name": "Lcbombwarning",
+      "type": "gamerule",
+      "sortid": 208,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lcbombwarning",
+      "metadata": {
+        "type": "logic"
+      },
+      "path": "~/Config"
+    },
+    {
+      "name": "Luckyblockweapon",
+      "type": "loottable",
+      "sortid": 209,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "luckyblockweapon",
+      "path": "~/UPDATE_LUCKY_BLOCK/Blocks/loot"
+    },
+    {
+      "name": "Galaxyisland",
+      "type": "loottable",
+      "sortid": 210,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxyisland",
+      "path": "~/Loot_chests"
+    },
+    {
+      "name": "DevblockchestWennEinBlockPlatziertWurdeVon",
+      "type": "procedure",
+      "sortid": 211,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "devblockchest_wenn_ein_block_platziert_wurde_von",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Loot_chests/DevMode"
+    },
+    {
+      "name": "Devblockchest",
+      "type": "block",
+      "sortid": 211,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "devblockchest",
+      "path": "~/Loot_chests/DevMode"
+    },
+    {
+      "name": "Galaxyle",
+      "type": "loottable",
+      "sortid": 212,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxyle",
+      "path": "~/Loot_chests"
+    },
+    {
+      "name": "Junglegalaxyleav",
+      "type": "loottable",
+      "sortid": 213,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "junglegalaxyleav",
+      "path": "~/Loot_chests"
+    },
+    {
+      "name": "PlantgalaxytreeWennEinBlockPlatziertWurdeVon",
+      "type": "procedure",
+      "sortid": 214,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plantgalaxytree_wenn_ein_block_platziert_wurde_von",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Biom/Galaxy Biom/struckture"
+    },
+    {
+      "name": "Plantgalaxytree",
+      "type": "block",
+      "sortid": 214,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plantgalaxytree",
+      "path": "~/Biom/Galaxy Biom/struckture"
+    },
+    {
+      "name": "Effektus",
+      "type": "block",
+      "sortid": 215,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "effektus",
+      "path": "~/Biom/Galaxy Desert/effektus"
+    },
+    {
+      "name": "Infectedgrass",
+      "type": "block",
+      "sortid": 217,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "infectedgrass",
+      "path": "~/virus"
+    },
+    {
+      "name": "Infectedgrassprozedur",
+      "type": "procedure",
+      "sortid": 218,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "infectedgrassprozedur",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/virus"
+    },
+    {
+      "name": "InfectedgrassWennDieEntitatAufDenBlockGeht",
+      "type": "procedure",
+      "sortid": 219,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "infectedgrass_wenn_die_entitat_auf_den_block_geht",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/virus"
+    },
+    {
+      "name": "WatervirusUpdateTick",
+      "type": "procedure",
+      "sortid": 220,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "watervirus_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/virus"
+    },
+    {
+      "name": "Watervirus",
+      "type": "block",
+      "sortid": 220,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "watervirus",
+      "path": "~/virus"
+    },
+    {
+      "name": "Galaxyfurnace",
+      "type": "gui",
+      "sortid": 221,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxyfurnacegui",
+      "path": "~/smelter"
+    },
+    {
+      "name": "Galaxyfurnaceblock",
+      "type": "block",
+      "sortid": 222,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxyfurnaceblock",
+      "path": "~/smelter"
+    },
+    {
+      "name": "Tradingblock",
+      "type": "block",
+      "sortid": 223,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tradingblock",
+      "path": "~/MOD_TRADER/TRADER_WEAPON/GUI"
+    },
+    {
+      "name": "Exitmenu",
+      "type": "procedure",
+      "sortid": 224,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exitmenu",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/MOD_TRADER/TRADER_WEAPON/PROCEDURE"
+    },
+    {
+      "name": "Crafttrade",
+      "type": "recipe",
+      "sortid": 225,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafttrade",
+      "path": "~/MOD_TRADER/TRADER_WEAPON/GUI"
+    },
+    {
+      "name": "Getvirus",
+      "type": "procedure",
+      "sortid": 226,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "getvirus",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Gui"
+    },
+    {
+      "name": "Adv21",
+      "type": "achievement",
+      "sortid": 227,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adv_21",
+      "path": "~/Adv"
+    },
+    {
+      "name": "Galaxysand",
+      "type": "block",
+      "sortid": 228,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxysand",
+      "path": "~/Biom/Galaxy Desert/sand"
+    },
+    {
+      "name": "Effektus2",
+      "type": "structure",
+      "sortid": 229,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "effektus_2",
+      "path": "~/Biom/Galaxy Desert/effektus"
+    },
+    {
+      "name": "Effektus3",
+      "type": "structure",
+      "sortid": 230,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "effektus_3",
+      "path": "~/Biom/Galaxy Desert/effektus"
+    },
+    {
+      "name": "Effektus4",
+      "type": "structure",
+      "sortid": 231,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "effektus_4",
+      "path": "~/Biom/Galaxy Desert/effektus"
+    },
+    {
+      "name": "EffektusWennEntitatImBlockZusammenstosst",
+      "type": "procedure",
+      "sortid": 232,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "effektus_wenn_entitat_im_block_zusammenstosst",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Biom/Galaxy Desert/effektus/editions"
+    },
+    {
+      "name": "Adv22",
+      "type": "achievement",
+      "sortid": 233,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adv_22",
+      "path": "~/Adv"
+    },
+    {
+      "name": "Adv23",
+      "type": "achievement",
+      "sortid": 234,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adv_23",
+      "path": "~/Adv"
+    },
+    {
+      "name": "FireworkTNTRedstoneAn",
+      "type": "procedure",
+      "sortid": 235,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "firework_tnt_redstone_an",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Biom/Galaxy Biom/Stuff/firework_tnt"
+    },
+    {
+      "name": "FireworkTNT",
+      "type": "block",
+      "sortid": 235,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "firework_tnt",
+      "path": "~/Biom/Galaxy Biom/Stuff/firework_tnt"
+    },
+    {
+      "name": "Post",
+      "type": "gui",
+      "sortid": 236,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "post",
+      "path": "~/MOD_TRADER/TRADER_WEAPON/GUI"
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "lctroll",
+      "type": "logic",
+      "scope": "map",
+      "value": "false"
+    }
+  ],
+  "sound_elements": [
+    {
+      "name": "galaxy_creeper_explode",
+      "files": [
+        "gc-explode"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "galaxy_creeper_ambint",
+      "files": [
+        "gc-ambient"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "galaxy_creeper_flint",
+      "files": [
+        "gc-flint"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "galaxy_creeper_death",
+      "files": [
+        "gc-death"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "bombwarning.dustblock.10": "[LC-Bomb-Warning] Explosion in 10 seconds!",
+      "advancements.adv_05.descr": "Craft a Galaxy Sword",
+      "block.lolocraftv.galaxydustblock": "Galaxy dust block",
+      "advancements.adv_15.descr": "Craft the Galaxy Boots",
+      "block.lolocraftv.infectedgrass": "Infected Grass",
+      "block.lolocraftv.galaxy_jungle_stairs": "Galaxy Jungle Stairs",
+      "block.lolocraftv.megagalaxydustbomb": "Megagalaxydustbomb",
+      "item.lolocraftv.galaxy_cow_spawn_egg": "Galaxy Cow Spawn Egg",
+      "item.lolocraftv.galaxy_armor_boots": "Galaxy Boots",
+      "advancements.adv_11.title": "Boooom",
+      "advancements.adv_21.title": "Trader like in Fallout",
+      "gamerule.betamenu": "[LC-V] Beta Menu",
+      "block.lolocraftv.galaxy_jungle_fence": "Galaxy Jungle Fence",
+      "block.lolocraftv.devblockchest": "Devblockchest",
+      "block.lolocraftv.galaxygrass": "Galaxy grass",
+      "advancements.adv_04.title": "Pic Pic with you Pickaxe",
+      "block.lolocraftv.tradingblock": "Tradingblock",
+      "translation.tooltip.galaxychest.3": "Part of the 5.0.7 Update",
+      "advancements.adv_08.descr": "find Galaxy Leaves",
+      "translation.tooltip.galaxychest.1": "A Big Chest to Store much Items",
+      "block.lolocraftv.galaxy_mega_nuce": "Galaxy Mega Nuce",
+      "translation.tooltip.galaxychest.2": "",
+      "block.lolocraftv.galaxy_wood": "Galaxy Wood",
+      "trader.error": "[Trader Portal] EYYY you dont have the Money for that!",
+      "advancements.adv_19.title": "Wow so many Trees",
+      "advancements.adv_07.title": "That is very dangerous son",
+      "advancements.adv_22.descr": "Find the Galaxy Desert",
+      "block.lolocraftv.galaxy_pressure_plate": "Galaxy Pressure Plate",
+      "block.lolocraftv.watervirus": "Water virus",
+      "v.advancements.adv_01.title": "A Big New Adventure",
+      "advancements.adv_02.descr": "find the new Wood",
+      "block.lolocraftv.effektus": "Effektus",
+      "advancements.adv_01hills.title": "Welcome to a Hillivanture!",
+      "gamerule.betamenu.description": "enable/disable Beta Menu",
+      "advancements.adv_10.descr": "farm 64 Galaxy Grass",
+      "advancements.adv_13.title": "Biger Boom",
+      "advancements.adv_20.descr": "Find a Trade and check his Shop",
+      "bombwarning.meganuclea-tnt.20": "[LC-Bomb-Warning] Explosion in 20 seconds!",
+      "entity.lolocraftv.galaxy_cow": "Galaxy Cow",
+      "gamerule.betacontant.description": "Enable/disable the Beta Contant (Bioms and more)",
+      "gamerule.lcfastadmin": "[LC-V] FastAdmin",
+      "item.lolocraftv.galaxydust": "Galaxydust",
+      "entity.lolocraftv.willi": "Willi",
+      "item.lolocraftv.galaxy_multi_tool": "Galaxy Multi Tool",
+      "biome.lolocraftv.galaxy_hills": "Galaxy Hills",
+      "block.lolocraftv.nuclea_galaxy_tnt": "Nuclea Galaxy TNT",
+      "item.lolocraftv.galaxy_armor_leggings": "Galaxy Leggings",
+      "gamerule.lcdebug.description": "Is you Game Crashing. Than set this to \"true\" when you will finde that",
+      "block.lolocraftv.galaxy_jungle_log": "Galaxy Jungle Log",
+      "gamerule.betacontant": "[LCV] Beta Contant",
+      "block.lolocraftv.galaxyfurnaceblock": "Galaxy Furnace",
+      "translation.tooltip.explodesword.2": "",
+      "advancements.adv_20.title": "wow what a shop",
+      "block.lolocraftv.galaxy_fence_gate": "Galaxy Fence Gate",
+      "advancements.adv_03.descr": "find the new Galaxy Ingot",
+      "translation.tooltip.explodesword.3": "Part of the: 5.0.6 Update",
+      "translation.tooltip.meganuke.3": "Part of the 5.0.2 Update",
+      "item.lolocraftv.galaxy_shovel": "Galaxy Shovel",
+      "item.lolocraftv.galaxyexplodesword": "Explosive Sword",
+      "advancements.adv_03.title": "The new Ingot",
+      "gamerule.lcinfomessage": "[LC-V] Info Message",
+      "bombwarning.megadustblock.10": "[LC-Bomb-Warning] Explosion in 10 seconds!",
+      "block.lolocraftv.galaxydirtmain": "Galaxy dirt",
+      "advancements.adv_16.descr": "Craft the Galaxy Chestplate",
+      "gamerule.lcinfomessage.description": "enable/disable the Info Message when you join a Server or Wordl with LoloCraft",
+      "translation.tooltip.explodesword.1": "A Very Explosiv Sword",
+      "block.lolocraftv.galaxy_jungle_slab": "Galaxy Jungle Slab",
+      "block.lolocraftv.galaxy_jungle_button": "Galaxy Jungle Button",
+      "entity.lolocraftv.galaxypig": "galaxypig",
+      "advancements.adv_14.title": "Much Biger BOOOOOOOMM",
+      "gamerule.biggalaxycreeperexplosion.description": "Leave it on true if you want the normal explosin and set it to false if you want to have a Small explosion",
+      "block.lolocraftv.testchest": "Galaxy Chest",
+      "block.lolocraftv.galaxy_flower": "Galaxy Flower",
+      "advancements.adv_04.descr": "Craft a Galaxy Pickaxe",
+      "item.lolocraftv.galaxy_armor_helmet": "Galaxy Helmet",
+      "advancements.adv_09.title": "Why 2???",
+      "gamerule.lcfastadmin.description": "Fast Admin is a Admin System. (/gm1 or other Commands)",
+      "block.lolocraftv.fox_coin_ore": "Fox Coin Ore",
+      "bombwarning.megadustblock.0": "[LC-Bomb-Warning] Explosion in 0 seconds!",
+      "advancements.adv_01hills.descr": "Finde and go to the Galaxy Hills",
+      "bombwarning.dustblock.start": "[LC-Bomb-Warning] ATTENTION: A Galaxy Dust TNT has been detonated.",
+      "bombwarning.nuclea-tnt.start": "[LC-Bomb-Warning] ATTENTION: A Galaxy NUCE has been detonated.",
+      "bombwarning.meganuclea-tnt.start": "[LC-Bomb-Warning] ATTENTION: A Galaxy Mega NUCE has been detonated.",
+      "block.lolocraftv.galaxy_planks": "Galaxy Planks",
+      "item.lolocraftv.galaxy_hoe": "Galaxy Hoe",
+      "item.lolocraftv.galaxypig_spawn_egg": "galaxypig Spawn Egg",
+      "advancements.adv_02.title": "A new Woodventure",
+      "bombwarning.megadustblock.5": "[LC-Bomb-Warning] Explosion in 5 seconds!",
+      "item.lolocraftv.galaxy_sword": "Galaxy Sword",
+      "item.lolocraftv.galaxy_jungle_creeper_spawn_egg": "Galaxy Jungle Creeper Spawn Egg",
+      "block.lolocraftv.galaxy_stairs": "Galaxy Stairs",
+      "item.lolocraftv.willi_spawn_egg": "Willi Spawn Egg",
+      "block.lolocraftv.firework_tnt": "Firework TNT",
+      "advancements.adv_15.title": "With the Boots you get a Boost!",
+      "advancements.adv_05.title": "i am swordi",
+      "advancements.adv_19.descr": "Find the Galaxy Jungle",
+      "translation.tooltip.foxcoin.3": "Part of the: 5.0.7 Update",
+      "translation.tooltip.foxcoin.2": "",
+      "advancements.adv_09.descr": "finde 2 Galaxy Leaves",
+      "item.lolocraftv.fox_coin": "Fox Coin",
+      "subtitles.galaxy_creeper_death": "",
+      "block.lolocraftv.galaxy_fence": "Galaxy Fence",
+      "block.lolocraftv.weaponluckyblock": "Weaponluckyblock",
+      "translation.tooltip.foxcoin.1": "A Coin for trading",
+      "advancements.adv_08.title": "Why???",
+      "advancements.adv_18.title": "Haha Random",
+      "advancements.adv_11.descr": "A Galaxy Creeper is very hard to kill",
+      "item.lolocraftv.galaxyingot": "Galaxy ingot",
+      "advancements.adv_21.descr": "Craft a Trading Tabel Click on it",
+      "advancements.adv_06.descr": "Craft a Galaxy Axe",
+      "trader.buy": "[Trader Portal] Thank you for your purchase stranger. Please don\u0027t die on me out there.",
+      "block.lolocraftv.galaxy_leaves": "Galaxy Leaves",
+      "translation.tooltip.galaxysword.3": "Part of the: 5.0.0 Update",
+      "item.lolocraftv.galaxy_axe": "Galaxy Axe",
+      "translation.tooltip.galaxysword.1": "A Very Strong Sword",
+      "translation.tooltip.galaxysword.2": "",
+      "bombwarning.meganuclea-tnt.30": "[LC-Bomb-Warning] Explosion in 30 seconds!",
+      "block.lolocraftv.lucky_fun_block_block": "Lucky Fun Block Block",
+      "block.lolocraftv.galaxy_log": "Galaxy Log",
+      "advancements.adv_14.descr": "Craft the Nuclea Galaxy TNT",
+      "biome.lolocraftv.galaxy_jungle": "Galaxy Jungle",
+      "translation.tooltip.meganuke.2": "",
+      "translation.tooltip.meganuke.1": "Go away when you place it",
+      "biome.lolocraftv.galaxybiom": "Galaxy Biom",
+      "bombwarning.megadustblock.start": "[LC-Bomb-Warning] ATTENTION: A Mega Galaxy Dust TNT has been detonated.",
+      "block.lolocraftv.galaxysand": "Galaxy Sand",
+      "block.lolocraftv.galaxyore": "Galaxyore",
+      "itemGroup.tablolo_craft_v_galaxy_jungle": "LoloCraftV Galaxy Jungle",
+      "advancements.adv_12.title": "Big Boom",
+      "translation.tooltip.pess": "Press \"Shift\" to see more Infos",
+      "item.lolocraftv.galaxy_armor_chestplate": "Galaxy Chestplate",
+      "block.lolocraftv.galaxy_slab": "Galaxy Slab",
+      "entity.lolocraftv.galaxy_creeper": "Galaxy Creeper",
+      "block.lolocraftv.boss_block": "Boss Block Spawner",
+      "bombwarning.dustblock.5": "[LC-Bomb-Warning] Explosion in 5 seconds!",
+      "advancements.adv_23.title": "Not Again...",
+      "advancements.adv_07.descr": "Eat the Galaxy Dust",
+      "item.lolocraftv.willi_magicwand": "Willi Magicwand",
+      "bombwarning.dustblock.0": "[LC-Bomb-Warning] Explosion in 0 seconds!",
+      "bombwarning.nuclea-tnt.20": "[LC-Bomb-Warning] Explosion in 20 seconds!",
+      "advancements.adv_17.descr": "Use a Explosiv Sword",
+      "block.lolocraftv.galaxy_jungle_pressure_plate": "Galaxy Jungle Pressure Plate",
+      "v.advancements.adv_01.descr": "find the new Galaxy",
+      "gamerule.biggalaxycreeperexplosion": "[LC-V] Big Galaxy Creeper explosion",
+      "subtitles.galaxy_creeper_flint": "",
+      "advancements.adv_10.title": "Diiiiiiirty",
+      "gamerule.lcbombwarning": "[LC-V] Bomb Warning",
+      "itemGroup.tablolo_craft_v": "LoloCraft V",
+      "advancements.adv_13.descr": "Craft the MEga Galaxy TNT",
+      "block.lolocraftv.galaxy_jungle_wood": "Galaxy Jungle Wood",
+      "item.lolocraftv.galaxy_creeper_spawn_egg": "Galaxy Creeper Spawn Egg",
+      "advancements.adv_06.title": "Axi Axe",
+      "advancements.adv_16.title": "Thats not a Chest its a Chestplate",
+      "advancements.adv_23.descr": "Get Hurt by a Galaxy Effektus",
+      "subtitles.galaxy_creeper_explode": "",
+      "block.lolocraftv.struckture_lucky_block": "Struckture Lucky Block",
+      "bombwarning.nuclea-tnt.10": "[LC-Bomb-Warning] Explosion in 10 seconds!",
+      "block.lolocraftv.galaxy_jungle_leaves": "Galaxy Jungle Leaves",
+      "block.lolocraftv.plantgalaxytree": "Plantgalaxytree",
+      "bombwarning.nuclea-tnt.0": "[LC-Bomb-Warning] Explosion in 0 seconds!",
+      "bombwarning.nuclea-tnt.30": "[LC-Bomb-Warning] Explosion in 30 seconds!",
+      "block.lolocraftv.galaxy_jungle_planks": "Galaxy Jungle Planks",
+      "biome.lolocraftv.galaxy_desert": "Galaxy Desert",
+      "subtitles.galaxy_creeper_ambint": "",
+      "advancements.adv_18.descr": "Find a Galaxy Loot Block",
+      "block.lolocraftv.galaxy_button": "Galaxy Button",
+      "gamerule.lcbombwarning.description": "A message is displayed when a bomb is detonated.",
+      "gamerule.lcdebug": "[LC-V] Debug",
+      "block.lolocraftv.galaxy_jungle_fence_gate": "Galaxy Jungle Fence Gate",
+      "entity.lolocraftv.galaxy_jungle_creeper": "Galaxy Jungle Creeper",
+      "advancements.adv_22.title": "This sand is annoying...",
+      "advancements.adv_12.descr": "Craft the Galaxy TNT",
+      "advancements.adv_17.title": "That make boom",
+      "item.lolocraftv.galaxy_pickaxe": "Galaxy Pickaxe",
+      "block.lolocraftv.fox_coin_block": "Block of Fox_Coin"
+    },
+    "af_na": {
+      "bombwarning.dustblock.10": "[LC-Bomb-Warning] Explosion in 10 seconds!",
+      "advancements.adv_05.descr": "Craft a Galaxy Sword",
+      "block.lolocraftv.galaxydustblock": "Galaxy dust block",
+      "advancements.adv_15.descr": "Craft the Galaxy Boots",
+      "block.lolocraftv.infectedgrass": "Infected Grass",
+      "block.lolocraftv.galaxy_jungle_stairs": "Galaxy Jungle Stairs",
+      "block.lolocraftv.megagalaxydustbomb": "Megagalaxydustbomb",
+      "item.lolocraftv.galaxy_cow_spawn_egg": "Galaxy Cow Spawn Egg",
+      "item.lolocraftv.galaxy_armor_boots": "Galaxy Boots",
+      "advancements.adv_11.title": "Boooom",
+      "advancements.adv_21.title": "Trader like in Fallout",
+      "gamerule.betamenu": "[LC-V] Beta Menu",
+      "block.lolocraftv.galaxy_jungle_fence": "Galaxy Jungle Fence",
+      "block.lolocraftv.devblockchest": "Devblockchest",
+      "block.lolocraftv.galaxygrass": "Galaxy grass",
+      "advancements.adv_04.title": "Pic Pic with you Pickaxe",
+      "block.lolocraftv.tradingblock": "Tradingblock",
+      "translation.tooltip.galaxychest.3": "Part of the 5.0.7 Update",
+      "advancements.adv_08.descr": "find Galaxy Leaves",
+      "translation.tooltip.galaxychest.1": "A Big Chest to Store much Items",
+      "block.lolocraftv.galaxy_mega_nuce": "Galaxy Mega Nuce",
+      "translation.tooltip.galaxychest.2": "",
+      "block.lolocraftv.galaxy_wood": "Galaxy Wood",
+      "trader.error": "[Trader Portal] EYYY you dont have the Money for that!",
+      "advancements.adv_19.title": "Wow so many Trees",
+      "advancements.adv_07.title": "That is very dangerous son",
+      "advancements.adv_22.descr": "Find the Galaxy Desert",
+      "block.lolocraftv.galaxy_pressure_plate": "Galaxy Pressure Plate",
+      "block.lolocraftv.watervirus": "Water virus",
+      "v.advancements.adv_01.title": "A Big New Adventure",
+      "advancements.adv_02.descr": "find the new Wood",
+      "block.lolocraftv.effektus": "Effektus",
+      "advancements.adv_01hills.title": "Welcome to a Hillivanture!",
+      "gamerule.betamenu.description": "enable/disable Beta Menu",
+      "advancements.adv_10.descr": "farm 64 Galaxy Grass",
+      "advancements.adv_13.title": "Biger Boom",
+      "advancements.adv_20.descr": "Find a Trade and check his Shop",
+      "bombwarning.meganuclea-tnt.20": "[LC-Bomb-Warning] Explosion in 20 seconds!",
+      "entity.lolocraftv.galaxy_cow": "Galaxy Cow",
+      "gamerule.betacontant.description": "Enable/disable the Beta Contant (Bioms and more)",
+      "gamerule.lcfastadmin": "[LC-V] FastAdmin",
+      "item.lolocraftv.galaxydust": "Galaxydust",
+      "entity.lolocraftv.willi": "Willi",
+      "item.lolocraftv.galaxy_multi_tool": "Galaxy Multi Tool",
+      "biome.lolocraftv.galaxy_hills": "Galaxy Hills",
+      "block.lolocraftv.nuclea_galaxy_tnt": "Nuclea Galaxy TNT",
+      "item.lolocraftv.galaxy_armor_leggings": "Galaxy Leggings",
+      "gamerule.lcdebug.description": "Is you Game Crashing. Than set this to \"true\" when you will finde that",
+      "block.lolocraftv.galaxy_jungle_log": "Galaxy Jungle Log",
+      "gamerule.betacontant": "[LCV] Beta Contant",
+      "block.lolocraftv.galaxyfurnaceblock": "Galaxy Furnace",
+      "translation.tooltip.explodesword.2": "",
+      "advancements.adv_20.title": "wow what a shop",
+      "block.lolocraftv.galaxy_fence_gate": "Galaxy Fence Gate",
+      "advancements.adv_03.descr": "find the new Galaxy Ingot",
+      "translation.tooltip.explodesword.3": "Part of the: 5.0.6 Update",
+      "translation.tooltip.meganuke.3": "Part of the 5.0.2 Update",
+      "item.lolocraftv.galaxy_shovel": "Galaxy Shovel",
+      "item.lolocraftv.galaxyexplodesword": "Explosive Sword",
+      "advancements.adv_03.title": "The new Ingot",
+      "gamerule.lcinfomessage": "[LC-V] Info Message",
+      "bombwarning.megadustblock.10": "[LC-Bomb-Warning] Explosion in 10 seconds!",
+      "block.lolocraftv.galaxydirtmain": "Galaxy dirt",
+      "advancements.adv_16.descr": "Craft the Galaxy Chestplate",
+      "gamerule.lcinfomessage.description": "enable/disable the Info Message when you join a Server or Wordl with LoloCraft",
+      "translation.tooltip.explodesword.1": "A Very Explosiv Sword",
+      "block.lolocraftv.galaxy_jungle_slab": "Galaxy Jungle Slab",
+      "block.lolocraftv.galaxy_jungle_button": "Galaxy Jungle Button",
+      "entity.lolocraftv.galaxypig": "galaxypig",
+      "advancements.adv_14.title": "Much Biger BOOOOOOOMM",
+      "gamerule.biggalaxycreeperexplosion.description": "Leave it on true if you want the normal explosin and set it to false if you want to have a Small explosion",
+      "block.lolocraftv.testchest": "Galaxy Chest",
+      "block.lolocraftv.galaxy_flower": "Galaxy Flower",
+      "advancements.adv_04.descr": "Craft a Galaxy Pickaxe",
+      "item.lolocraftv.galaxy_armor_helmet": "Galaxy Helmet",
+      "advancements.adv_09.title": "Why 2???",
+      "gamerule.lcfastadmin.description": "Fast Admin is a Admin System. (/gm1 or other Commands)",
+      "block.lolocraftv.fox_coin_ore": "Fox Coin Ore",
+      "bombwarning.megadustblock.0": "[LC-Bomb-Warning] Explosion in 0 seconds!",
+      "advancements.adv_01hills.descr": "Finde and go to the Galaxy Hills",
+      "bombwarning.dustblock.start": "[LC-Bomb-Warning] ATTENTION: A Galaxy Dust TNT has been detonated.",
+      "bombwarning.nuclea-tnt.start": "[LC-Bomb-Warning] ATTENTION: A Galaxy NUCE has been detonated.",
+      "bombwarning.meganuclea-tnt.start": "[LC-Bomb-Warning] ATTENTION: A Galaxy Mega NUCE has been detonated.",
+      "block.lolocraftv.galaxy_planks": "Galaxy Planks",
+      "item.lolocraftv.galaxy_hoe": "Galaxy Hoe",
+      "item.lolocraftv.galaxypig_spawn_egg": "galaxypig Spawn Egg",
+      "advancements.adv_02.title": "A new Woodventure",
+      "bombwarning.megadustblock.5": "[LC-Bomb-Warning] Explosion in 5 seconds!",
+      "item.lolocraftv.galaxy_sword": "Galaxy Sword",
+      "item.lolocraftv.galaxy_jungle_creeper_spawn_egg": "Galaxy Jungle Creeper Spawn Egg",
+      "block.lolocraftv.galaxy_stairs": "Galaxy Stairs",
+      "item.lolocraftv.willi_spawn_egg": "Willi Spawn Egg",
+      "block.lolocraftv.firework_tnt": "Firework TNT",
+      "advancements.adv_15.title": "With the Boots you get a Boost!",
+      "advancements.adv_05.title": "i am swordi",
+      "advancements.adv_19.descr": "Find the Galaxy Jungle",
+      "translation.tooltip.foxcoin.3": "Part of the: 5.0.7 Update",
+      "translation.tooltip.foxcoin.2": "",
+      "advancements.adv_09.descr": "finde 2 Galaxy Leaves",
+      "item.lolocraftv.fox_coin": "Fox Coin",
+      "subtitles.galaxy_creeper_death": "",
+      "block.lolocraftv.galaxy_fence": "Galaxy Fence",
+      "block.lolocraftv.weaponluckyblock": "Weaponluckyblock",
+      "translation.tooltip.foxcoin.1": "A Coin for trading",
+      "advancements.adv_08.title": "Why???",
+      "advancements.adv_18.title": "Haha Random",
+      "advancements.adv_11.descr": "A Galaxy Creeper is very hard to kill",
+      "item.lolocraftv.galaxyingot": "Galaxy ingot",
+      "advancements.adv_21.descr": "Craft a Trading Tabel Click on it",
+      "advancements.adv_06.descr": "Craft a Galaxy Axe",
+      "trader.buy": "[Trader Portal] Thank you for your purchase stranger. Please don\u0027t die on me out there.",
+      "block.lolocraftv.galaxy_leaves": "Galaxy Leaves",
+      "translation.tooltip.galaxysword.3": "Part of the: 5.0.0 Update",
+      "item.lolocraftv.galaxy_axe": "Galaxy Axe",
+      "translation.tooltip.galaxysword.1": "A Very Strong Sword",
+      "translation.tooltip.galaxysword.2": "",
+      "bombwarning.meganuclea-tnt.30": "[LC-Bomb-Warning] Explosion in 30 seconds!",
+      "block.lolocraftv.lucky_fun_block_block": "Lucky Fun Block Block",
+      "block.lolocraftv.galaxy_log": "Galaxy Log",
+      "advancements.adv_14.descr": "Craft the Nuclea Galaxy TNT",
+      "biome.lolocraftv.galaxy_jungle": "Galaxy Jungle",
+      "translation.tooltip.meganuke.2": "",
+      "translation.tooltip.meganuke.1": "Go away when you place it",
+      "biome.lolocraftv.galaxybiom": "Galaxy Biom",
+      "bombwarning.megadustblock.start": "[LC-Bomb-Warning] ATTENTION: A Mega Galaxy Dust TNT has been detonated.",
+      "block.lolocraftv.galaxysand": "Galaxy Sand",
+      "block.lolocraftv.galaxyore": "Galaxyore",
+      "itemGroup.tablolo_craft_v_galaxy_jungle": "LoloCraftV Galaxy Jungle",
+      "advancements.adv_12.title": "Big Boom",
+      "translation.tooltip.pess": "Press \"Shift\" to see more Infos",
+      "item.lolocraftv.galaxy_armor_chestplate": "Galaxy Chestplate",
+      "block.lolocraftv.galaxy_slab": "Galaxy Slab",
+      "entity.lolocraftv.galaxy_creeper": "Galaxy Creeper",
+      "block.lolocraftv.boss_block": "Boss Block Spawner",
+      "bombwarning.dustblock.5": "[LC-Bomb-Warning] Explosion in 5 seconds!",
+      "advancements.adv_23.title": "Not Again...",
+      "advancements.adv_07.descr": "Eat the Galaxy Dust",
+      "item.lolocraftv.willi_magicwand": "Willi Magicwand",
+      "bombwarning.dustblock.0": "[LC-Bomb-Warning] Explosion in 0 seconds!",
+      "bombwarning.nuclea-tnt.20": "[LC-Bomb-Warning] Explosion in 20 seconds!",
+      "advancements.adv_17.descr": "Use a Explosiv Sword",
+      "block.lolocraftv.galaxy_jungle_pressure_plate": "Galaxy Jungle Pressure Plate",
+      "v.advancements.adv_01.descr": "find the new Galaxy",
+      "gamerule.biggalaxycreeperexplosion": "[LC-V] Big Galaxy Creeper explosion",
+      "subtitles.galaxy_creeper_flint": "",
+      "advancements.adv_10.title": "Diiiiiiirty",
+      "gamerule.lcbombwarning": "[LC-V] Bomb Warning",
+      "itemGroup.tablolo_craft_v": "LoloCraft V",
+      "advancements.adv_13.descr": "Craft the MEga Galaxy TNT",
+      "block.lolocraftv.galaxy_jungle_wood": "Galaxy Jungle Wood",
+      "item.lolocraftv.galaxy_creeper_spawn_egg": "Galaxy Creeper Spawn Egg",
+      "advancements.adv_06.title": "Axi Axe",
+      "advancements.adv_16.title": "Thats not a Chest its a Chestplate",
+      "advancements.adv_23.descr": "Get Hurt by a Galaxy Effektus",
+      "subtitles.galaxy_creeper_explode": "",
+      "block.lolocraftv.struckture_lucky_block": "Struckture Lucky Block",
+      "bombwarning.nuclea-tnt.10": "[LC-Bomb-Warning] Explosion in 10 seconds!",
+      "block.lolocraftv.galaxy_jungle_leaves": "Galaxy Jungle Leaves",
+      "block.lolocraftv.plantgalaxytree": "Plantgalaxytree",
+      "bombwarning.nuclea-tnt.0": "[LC-Bomb-Warning] Explosion in 0 seconds!",
+      "bombwarning.nuclea-tnt.30": "[LC-Bomb-Warning] Explosion in 30 seconds!",
+      "block.lolocraftv.galaxy_jungle_planks": "Galaxy Jungle Planks",
+      "biome.lolocraftv.galaxy_desert": "Galaxy Desert",
+      "subtitles.galaxy_creeper_ambint": "",
+      "advancements.adv_18.descr": "Find a Galaxy Loot Block",
+      "block.lolocraftv.galaxy_button": "Galaxy Button",
+      "gamerule.lcbombwarning.description": "A message is displayed when a bomb is detonated.",
+      "gamerule.lcdebug": "[LC-V] Debug",
+      "block.lolocraftv.galaxy_jungle_fence_gate": "Galaxy Jungle Fence Gate",
+      "entity.lolocraftv.galaxy_jungle_creeper": "Galaxy Jungle Creeper",
+      "advancements.adv_22.title": "This sand is annoying...",
+      "advancements.adv_12.descr": "Craft the Galaxy TNT",
+      "advancements.adv_17.title": "That make boom",
+      "item.lolocraftv.galaxy_pickaxe": "Galaxy Pickaxe",
+      "block.lolocraftv.fox_coin_block": "Block of Fox_Coin"
+    },
+    "de_de": {
+      "bombwarning.dustblock.10": "[LC-Bomben-Warnung] Explosion in 10 Sekunden!",
+      "advancements.adv_15.descr": "Crafe die Galaxy Schuhe",
+      "block.lolocraftv.galaxydustblock": "Galaxy Staub Block",
+      "advancements.adv_05.descr": "Baue ein Galaxy Schwert",
+      "block.lolocraftv.infectedgrass": "Infected Grass",
+      "block.lolocraftv.galaxy_jungle_stairs": "Galaxy Jungle Stuffen",
+      "advancements.adv_01.title": "Ein großes neues Abenteuer",
+      "block.lolocraftv.megagalaxydustbomb": "Mega Galaxy TNT",
+      "item.lolocraftv.galaxy_cow_spawn_egg": "Galaxy Kuh Ei",
+      "item.lolocraftv.galaxy_armor_boots": "Galaxy Stiefel",
+      "advancements.adv_11.title": "Boooom!",
+      "advancements.adv_21.title": "Trader like in Fallout",
+      "gamerule.betamenu": "[LC-V] Beta Menu",
+      "block.lolocraftv.galaxy_jungle_fence": "Galaxy Jungle Zaun",
+      "block.lolocraftv.devblockchest": "Devblockchest",
+      "block.lolocraftv.galaxygrass": "Galaxy Grass",
+      "advancements.adv_04.title": "Pic Pic mit deiner Spitzhacke",
+      "block.lolocraftv.tradingblock": "Tradingblock",
+      "translation.tooltip.galaxychest.3": "Wurde beim: 5.0.7 Update hinzugefügt",
+      "advancements.adv_08.descr": "Finde  Galaxy Blätter",
+      "translation.tooltip.galaxychest.1": "Eine sehr große Kiste zum lagern von vielen Items",
+      "translation.tooltip.galaxychest.2": "",
+      "block.lolocraftv.galaxy_mega_nuce": "Galaxy Mega Nuce",
+      "block.lolocraftv.galaxy_wood": "Galaxy Holz",
+      "trader.error": "[Trader Portal] EYY Du hast das Geld dafür nicht!",
+      "advancements.adv_19.title": "Wow so viele Bäume",
+      "advancements.adv_07.title": "Das ist sehr gefährlich Sohn",
+      "advancements.adv_22.descr": "Find the Galaxy Desert",
+      "block.lolocraftv.galaxy_pressure_plate": "Galaxy Druck Platte",
+      "block.lolocraftv.watervirus": "Water virus",
+      "advancements.adv_02.descr": "Finde das neue Holz",
+      "block.lolocraftv.effektus": "Effektus",
+      "advancements.adv_01hills.title": "Willkommen zu einem bergigen Abenteuer",
+      "gamerule.betamenu.description": "Aktiviere/Deaktiviere das Beta Menu",
+      "advancements.adv_10.descr": "Farme 64 Galaxy Grass",
+      "advancements.adv_13.title": "Biger Boom!",
+      "advancements.adv_20.descr": "Finde einen Trader und schau dir seine Angebote an",
+      "bombwarning.meganuclea-tnt.20": "[LC-Bomben-Warnung] Explosion in 20 Sekunden!",
+      "entity.lolocraftv.galaxy_cow": "Galaxy Kuh",
+      "gamerule.betacontant.description": "Enable/disable the Beta Contant (Bioms and more)",
+      "gamerule.lcfastadmin": "[LC-V] FastAdmin",
+      "item.lolocraftv.galaxydust": "Galaxy Staub",
+      "entity.lolocraftv.willi": "Willi",
+      "item.lolocraftv.galaxy_multi_tool": "Galaxy Multi Tool",
+      "biome.lolocraftv.galaxy_hills": "Galaxy Hills",
+      "block.lolocraftv.nuclea_galaxy_tnt": "Nuclea Galaxy TNT",
+      "item.lolocraftv.galaxy_armor_leggings": "Galaxy Hose",
+      "gamerule.lcdebug.description": "Is you Game Crashing. Than set this to \"true\" when you will finde that",
+      "block.lolocraftv.galaxy_jungle_log": "Galaxy Jungle Log",
+      "gamerule.betacontant": "[LCV] Beta Contant",
+      "block.lolocraftv.galaxyfurnaceblock": "Galaxyfurnaceblock",
+      "translation.tooltip.explodesword.2": "",
+      "advancements.adv_20.title": "WOW Was ein Shop",
+      "block.lolocraftv.galaxy_fence_gate": "Galaxy Zaun-Tor",
+      "advancements.adv_03.descr": "Finde das neue Galaxy Ingot",
+      "translation.tooltip.explodesword.3": "Wurde beim: 5.0.6 Update hinzugefügt",
+      "translation.tooltip.meganuke.3": "Wurde beim: 5.0.2 Update hinzugefügt",
+      "item.lolocraftv.galaxy_shovel": "Galaxy Schaufel",
+      "item.lolocraftv.galaxyexplodesword": "Explosive Sword",
+      "advancements.adv_03.title": "Das neue Ingot",
+      "gamerule.lcinfomessage": "[LC-V] Info Nachicht",
+      "bombwarning.megadustblock.10": "[LC-Bomben-Warnung] Explosion in 10 Sekunden!",
+      "block.lolocraftv.galaxydirtmain": "Galaxy Dreck",
+      "advancements.adv_16.descr": "Craft the Galaxy Chestplate",
+      "gamerule.lcinfomessage.description": "Aktiviere/Deaktiviere Die Join Nachicht bei Servern/Welten mir LoloCraft",
+      "translation.tooltip.explodesword.1": "Ein sehr explosives Schwert",
+      "block.lolocraftv.galaxy_jungle_slab": "Galaxy Jungle Slab",
+      "block.lolocraftv.galaxy_jungle_button": "Galaxy Jungle Button",
+      "entity.lolocraftv.galaxypig": "Galaxy Schwein",
+      "advancements.adv_14.title": "Sehr großes BOOOOOOOOM",
+      "gamerule.biggalaxycreeperexplosion.description": "Mit dieser einstellung kannst du de- oder ak- tivieren ob die Explosion vom Galaxy Creeper groß sein soll",
+      "block.lolocraftv.testchest": "Galaxy Kiste",
+      "block.lolocraftv.galaxy_flower": "Galaxy Blume",
+      "advancements.adv_04.descr": "Crafte die Galaxy Spitzhacke",
+      "item.lolocraftv.galaxy_armor_helmet": "Galaxy Helm",
+      "advancements.adv_09.title": "Warum 2??",
+      "gamerule.lcfastadmin.description": "Fast Admin ist ein Admin System. (/gm1 or other Commands)",
+      "block.lolocraftv.fox_coin_ore": "Fox Coin Ore",
+      "bombwarning.megadustblock.0": "[LC-Bomben-Warnung] Explosion in 0 Sekunden!",
+      "advancements.adv_01hills.descr": "Finde und gehe zu den Galaxy Hills",
+      "bombwarning.dustblock.start": "[LC-Bomben-Warnung] ACHTUNG! Ein Galaxy Dust TNT wurde gezündet.",
+      "bombwarning.nuclea-tnt.start": "[LC-Bomben-Warnung] ACHTUNG! Ein Galaxy NUCE wurde gezündet.",
+      "bombwarning.meganuclea-tnt.start": "[LC-Bomben-Warnung] ACHTUNG! Ein Galaxy MEGA NUCE wurde gezündet.",
+      "block.lolocraftv.galaxy_planks": "Galaxy Planken",
+      "item.lolocraftv.galaxy_hoe": "Galaxy Hoe",
+      "item.lolocraftv.galaxypig_spawn_egg": "Galaxy Schwein Spawn Ei",
+      "advancements.adv_02.title": "Ein neues Woodventure",
+      "bombwarning.megadustblock.5": "[LC-Bomben-Warnung] Explosion in 5 Sekunden!",
+      "item.lolocraftv.galaxy_sword": "Galaxy Schwert",
+      "item.lolocraftv.galaxy_jungle_creeper_spawn_egg": "Galaxy Jungle Creeper Spawn Egg",
+      "block.lolocraftv.galaxy_stairs": "Galaxy Stufen",
+      "item.lolocraftv.willi_spawn_egg": "Willi Ei",
+      "block.lolocraftv.firework_tnt": "Firework TNT",
+      "advancements.adv_15.title": "Mit diesen Boots bekommst du einen Boost!",
+      "advancements.adv_05.title": "I am swordi",
+      "advancements.adv_19.descr": "Find the Galaxy Jungle",
+      "translation.tooltip.foxcoin.3": "Wurde beim: 5.0.7 Update hinzugefügt",
+      "translation.tooltip.foxcoin.2": "",
+      "advancements.adv_09.descr": "Finde 2 Galaxy Blätter",
+      "item.lolocraftv.fox_coin": "Fox Coin",
+      "subtitles.galaxy_creeper_death": "",
+      "block.lolocraftv.galaxy_fence": "Galaxy Zaun",
+      "block.lolocraftv.weaponluckyblock": "Weaponluckyblock",
+      "translation.tooltip.foxcoin.1": "Eine Münze zum Traden",
+      "advancements.adv_08.title": "Warum???",
+      "advancements.adv_18.title": "Haha Random",
+      "advancements.adv_11.descr": "Ein Galaxy Creeper ist sehr schwer zu töten",
+      "item.lolocraftv.galaxyingot": "Galaxy Barren",
+      "advancements.adv_21.descr": "Craft a Trading Tabel Click on it",
+      "advancements.adv_06.descr": "Stelle eine Galaxie-Axt her",
+      "trader.buy": "[Trader Portal] Danke für dein Kauf Fremder. Bitte Sterbe mir da draußen nicht.",
+      "block.lolocraftv.galaxy_leaves": "Galaxy Blätter",
+      "translation.tooltip.galaxysword.3": "Wurde beim: 5.0.0 Update hinzugefügt",
+      "item.lolocraftv.galaxy_axe": "Galaxy Axt",
+      "translation.tooltip.galaxysword.1": "Ein sehr starkes Schwert ",
+      "translation.tooltip.galaxysword.2": "",
+      "bombwarning.meganuclea-tnt.30": "[LC-Bomben-Warnung] Explosion in 30 Sekunden!",
+      "block.lolocraftv.lucky_fun_block_block": "Lucky Fun Block Block",
+      "block.lolocraftv.galaxy_log": "Galaxy Stamm",
+      "advancements.adv_14.descr": "Stelle das Nuclea Galaxy TNT her",
+      "biome.lolocraftv.galaxy_jungle": "Galaxy Jungle",
+      "translation.tooltip.meganuke.2": "(So als kleiner Tipp)",
+      "translation.tooltip.meganuke.1": "Gehe lieber weg wenn du es plaziert hast",
+      "biome.lolocraftv.galaxybiom": "Galaxy-Biom",
+      "bombwarning.megadustblock.start": "[LC-Bomben-Warnung] ACHTUNG! Ein Mega Galaxy Dust TNT wurde gezündet.",
+      "block.lolocraftv.galaxysand": "Galaxy Sand",
+      "block.lolocraftv.galaxyore": "Galaxy Ore",
+      "itemGroup.tablolo_craft_v_galaxy_jungle": "LoloCraftV Galaxy Jungle",
+      "advancements.adv_12.title": "Big Boom!",
+      "translation.tooltip.pess": "Drücke \"Shift\" um mehr Infos zu erhalten",
+      "item.lolocraftv.galaxy_armor_chestplate": "Galaxy Brustplatte",
+      "block.lolocraftv.galaxy_slab": "Galaxy Stufe",
+      "entity.lolocraftv.galaxy_creeper": "Galaxy Creeper",
+      "block.lolocraftv.boss_block": "Boss Block Spawner",
+      "bombwarning.dustblock.5": "[LC-Bomben-Warnung] Explosion in 5 Sekunden!",
+      "advancements.adv_23.title": "Not Again...",
+      "advancements.adv_07.descr": "Esse den Galaxy Staub",
+      "item.lolocraftv.willi_magicwand": "Willi´s Zauberstab",
+      "bombwarning.dustblock.0": "[LC-Bomben-Warnung] Explosion in 0 Sekunden!",
+      "bombwarning.nuclea-tnt.20": "[LC-Bomben-Warnung] Explosion in 20 Sekunden!",
+      "advancements.adv_17.descr": "Use a Explosiv Sword",
+      "block.lolocraftv.galaxy_jungle_pressure_plate": "Galaxy Jungle Pressure Plate",
+      "gamerule.biggalaxycreeperexplosion": "[LC-V] Big Galaxy Creeper explosion",
+      "subtitles.galaxy_creeper_flint": "",
+      "advancements.adv_10.title": "Diiiiiiirty",
+      "gamerule.lcbombwarning": "[LC-V] Bomb Warning",
+      "itemGroup.tablolo_craft_v": "LoloCraft V",
+      "advancements.adv_13.descr": "Crafte das mega Galaxy TNT",
+      "block.lolocraftv.galaxy_jungle_wood": "Galaxy Jungle Wood",
+      "item.lolocraftv.galaxy_creeper_spawn_egg": "Galaxy Creeper Spawn Egg",
+      "advancements.adv_06.title": "Axi die Axt",
+      "advancements.adv_16.title": "Das ist keine Chest das ist eine Chestplate",
+      "advancements.adv_23.descr": "Get Hurt by a Galaxy Effektus",
+      "subtitles.galaxy_creeper_explode": "",
+      "block.lolocraftv.struckture_lucky_block": "Struckture Lucky Block",
+      "bombwarning.nuclea-tnt.10": "[LC-Bomben-Warnung] Explosion in 10 Sekunden!",
+      "block.lolocraftv.galaxy_jungle_leaves": "Galaxy Jungle Leaves",
+      "block.lolocraftv.plantgalaxytree": "Plantgalaxytree",
+      "bombwarning.nuclea-tnt.0": "[LC-Bomben-Warnung] Explosion in 0 Sekunden!",
+      "advancements.adv_01.descr": "Finde die neue Galaxy",
+      "bombwarning.nuclea-tnt.30": "[LC-Bomben-Warnung] Explosion in 30 Sekunden!",
+      "block.lolocraftv.galaxy_jungle_planks": "Galaxy Jungle Planks",
+      "biome.lolocraftv.galaxy_desert": "Galaxy Desert",
+      "subtitles.galaxy_creeper_ambint": "",
+      "advancements.adv_18.descr": "find a Galaxy Loot Block",
+      "block.lolocraftv.galaxy_button": "Galaxy Knopf",
+      "gamerule.lcbombwarning.description": "A message is displayed when a bomb is detonated.",
+      "gamerule.lcdebug": "[LC-V] Debug",
+      "block.lolocraftv.galaxy_jungle_fence_gate": "Galaxy Jungle Fence Gate",
+      "entity.lolocraftv.galaxy_jungle_creeper": "Galaxy Jungle Creeper",
+      "advancements.adv_22.title": "This sand is annoying...",
+      "advancements.adv_12.descr": "Stelle das Galaxy TNT her",
+      "advancements.adv_17.title": "That make boom",
+      "item.lolocraftv.galaxy_pickaxe": "Galaxie Spitzhacke",
+      "block.lolocraftv.fox_coin_block": "Block of Fox_Coin"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Biom",
+        "children": [
+          {
+            "name": "Galaxy Biom",
+            "children": [
+              {
+                "name": "Main",
+                "children": []
+              },
+              {
+                "name": "Blocks",
+                "children": []
+              },
+              {
+                "name": "ore",
+                "children": [
+                  {
+                    "name": "Fox_Coin",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Stuff",
+                "children": [
+                  {
+                    "name": "Prod",
+                    "children": []
+                  },
+                  {
+                    "name": "Nuclea TNT",
+                    "children": []
+                  },
+                  {
+                    "name": "NewBigbababubutnt",
+                    "children": []
+                  },
+                  {
+                    "name": "firework_tnt",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "struckture",
+                "children": []
+              },
+              {
+                "name": "entity",
+                "children": [
+                  {
+                    "name": "prod",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "store",
+                "children": [
+                  {
+                    "name": "Prod",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Galaxy Jungle",
+            "children": [
+              {
+                "name": "Main",
+                "children": []
+              },
+              {
+                "name": "Struck",
+                "children": []
+              },
+              {
+                "name": "Wood",
+                "children": []
+              },
+              {
+                "name": "etc",
+                "children": []
+              },
+              {
+                "name": "Mobs",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Galaxy Desert",
+            "children": [
+              {
+                "name": "Main",
+                "children": []
+              },
+              {
+                "name": "Wood",
+                "children": []
+              },
+              {
+                "name": "effektus",
+                "children": [
+                  {
+                    "name": "editions",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "sand",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "etc.",
+        "children": []
+      },
+      {
+        "name": "Waffen",
+        "children": []
+      },
+      {
+        "name": "Gui",
+        "children": []
+      },
+      {
+        "name": "Adv",
+        "children": []
+      },
+      {
+        "name": "Loot",
+        "children": []
+      },
+      {
+        "name": "Villiger",
+        "children": []
+      },
+      {
+        "name": "endboss",
+        "children": []
+      },
+      {
+        "name": "dev",
+        "children": []
+      },
+      {
+        "name": "start",
+        "children": []
+      },
+      {
+        "name": "Armor",
+        "children": []
+      },
+      {
+        "name": "FastAdmin",
+        "children": [
+          {
+            "name": "prod",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Config",
+        "children": [
+          {
+            "name": "prod",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "BETA",
+        "children": []
+      },
+      {
+        "name": "debug",
+        "children": []
+      },
+      {
+        "name": "MOD_TRADER",
+        "children": [
+          {
+            "name": "TRADER_WEAPON",
+            "children": [
+              {
+                "name": "GUI",
+                "children": []
+              },
+              {
+                "name": "PROCEDURE",
+                "children": [
+                  {
+                    "name": "Buy",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "NPC",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "TRADING_TABLE",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "UPDATE_LUCKY_BLOCK",
+        "children": [
+          {
+            "name": "Loot",
+            "children": []
+          },
+          {
+            "name": "Blocks",
+            "children": [
+              {
+                "name": "loot",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "LC_PLUS",
+        "children": []
+      },
+      {
+        "name": "Diam",
+        "children": [
+          {
+            "name": "Mobs",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Loot_chests",
+        "children": [
+          {
+            "name": "DevMode",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Trololo",
+        "children": []
+      },
+      {
+        "name": "smelter",
+        "children": []
+      },
+      {
+        "name": "enchantments",
+        "children": [
+          {
+            "name": "pru",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "virus",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "lolocraftv",
+    "modName": "LoloCraftV",
+    "version": "5.1.0",
+    "description": "LoloCraftV is the best Mod of the LoloCraft Series",
+    "author": "Fuchsiii´s",
+    "websiteURL": "https://v.lolocraft.de/",
+    "license": "All Rights Reserved",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "updateURL": "https://data.fuchsiii.de/lolocraft/update/Update.json",
+    "modPicture": "logoalpha",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "2023 Fuchsiii´s Mods",
+    "modElementsPackage": "net.fuchsiiis.lolocraftv",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}

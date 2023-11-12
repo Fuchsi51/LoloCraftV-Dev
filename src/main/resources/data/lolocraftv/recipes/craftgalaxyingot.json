@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 150,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "lolocraftv:galaxyore"
+  },
+  "result": {
+    "item": "lolocraftv:galaxyingot"
+  }
+}

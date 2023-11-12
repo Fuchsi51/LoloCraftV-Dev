@@ -1,0 +1,11 @@
+{
+  "parent": "lolocraftv:custom/model",
+  "textures": {
+    "all": "lolocraftv:blocks/galaxyexplodesword",
+    "particle": "lolocraftv:blocks/galaxyexplodesword",
+    "0": "lolocraftv:blocks/ground",
+    "1": "lolocraftv:blocks/wood",
+    "2": "lolocraftv:blocks/texturechest",
+    "missing": "lolocraftv:blocks/galaxydusttnt"
+  }
+}

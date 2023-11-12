@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "lolocraftv:blocks/galaxy_jungle_log_top",
+    "up": "lolocraftv:blocks/galaxy_jungle_log_top",
+    "north": "lolocraftv:blocks/galaxy_jungle_log_side",
+    "east": "lolocraftv:blocks/galaxy_jungle_log_side",
+    "south": "lolocraftv:blocks/galaxy_jungle_log_side",
+    "west": "lolocraftv:blocks/galaxy_jungle_log_side",
+    "particle": "lolocraftv:blocks/galaxy_jungle_log_top"
+  }
+}

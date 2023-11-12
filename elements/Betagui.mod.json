@@ -1,0 +1,95 @@
+{
+  "_fv": 34,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 277,
+    "height": 179,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "LoloCraftV Beta Menu",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "LoloCraftV Beta Menu",
+          "x": 162,
+          "y": 34
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Beta Stuff",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Beta Stuff",
+          "x": 187,
+          "y": 57
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Danger. The items on this list may have texture/game errors.",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Danger. The items on this list may have texture/game errors.",
+          "x": 56,
+          "y": 6
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "beta_gui.png",
+          "use1Xscale": false,
+          "name": "beta_gui.png",
+          "x": 49,
+          "y": 1
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "beta_gui.png",
+          "use1Xscale": false,
+          "name": "beta_gui.png",
+          "x": 368,
+          "y": 2
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Get Virus Block",
+          "onClick": {
+            "name": "Getvirus"
+          },
+          "width": 103,
+          "height": 20,
+          "name": "Get Virus Block",
+          "x": 163,
+          "y": 89
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "craftgalaxystairs",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:GalaxyPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GalaxyPlanks"
+      },
+      {
+        "value": "CUSTOM:GalaxyPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GalaxyPlanks"
+      },
+      {
+        "value": "CUSTOM:GalaxyPlanks"
+      },
+      {
+        "value": "CUSTOM:GalaxyPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:GalaxyStairs"
+    },
+    "name": "craftstairs",
+    "namespace": "mod"
+  }
+}

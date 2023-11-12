@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "lolocraftv:galaxy_planks"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "lolocraftv:galaxy_planks"
+    },
+    "3": {
+      "item": "lolocraftv:galaxy_planks"
+    },
+    "4": {
+      "item": "minecraft:debug_stick"
+    },
+    "5": {
+      "item": "lolocraftv:galaxy_planks"
+    }
+  },
+  "result": {
+    "item": "lolocraftv:galaxy_fence",
+    "count": 9
+  }
+}

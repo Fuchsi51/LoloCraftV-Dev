@@ -1,0 +1,76 @@
+{
+  "_fv": 34,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 201,
+    "height": 141,
+    "inventoryOffsetX": 83,
+    "inventoryOffsetY": 29,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Terminal",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Terminal",
+          "x": 192,
+          "y": 53
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Welcome to the Galaxy Shop Stranger",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Welcome to the Galaxy Shop Stranger",
+          "x": 122,
+          "y": 65
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Buy some Stuff",
+          "onClick": {
+            "name": "TRADEOPENGUIBUY"
+          },
+          "width": 98,
+          "height": 20,
+          "name": "Buy some Stuff",
+          "x": 163,
+          "y": 99
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Exit Shop",
+          "onClick": {
+            "name": "Exitmenu"
+          },
+          "width": 72,
+          "height": 20,
+          "name": "Exit Shop",
+          "x": 177,
+          "y": 168
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 16,
+      "sy": 16,
+      "ox": 16,
+      "oy": 16,
+      "snapOnGrid": false
+    }
+  }
+}

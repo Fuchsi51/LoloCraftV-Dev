@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 9,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GalaxyPlanks"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": "CUSTOM:GalaxyPlanks"
+      },
+      {
+        "value": "CUSTOM:GalaxyPlanks"
+      },
+      {
+        "value": "Items.DEBUG_STICK"
+      },
+      {
+        "value": "CUSTOM:GalaxyPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:GalaxyFence"
+    },
+    "name": "craftgalaxyfencegate",
+    "namespace": "mod"
+  }
+}

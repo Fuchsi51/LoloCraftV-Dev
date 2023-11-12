@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "lolocraftv:fox_coin_block"
+    }
+  ],
+  "result": {
+    "item": "lolocraftv:fox_coin",
+    "count": 9
+  }
+}

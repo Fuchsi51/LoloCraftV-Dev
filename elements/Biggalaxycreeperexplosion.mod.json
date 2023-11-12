@@ -1,0 +1,12 @@
+{
+  "_fv": 34,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Logic",
+    "displayName": "[LC-V] Big Galaxy Creeper explosion",
+    "description": "Leave it on true if you want the normal explosin and set it to false if you want to have a Small explosion",
+    "category": "MOBS",
+    "defaultValueLogic": true,
+    "defaultValueNumber": 0
+  }
+}

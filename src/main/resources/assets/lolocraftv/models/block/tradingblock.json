@@ -1,0 +1,9 @@
+{
+  "parent": "lolocraftv:custom/tradingblock",
+  "textures": {
+    "all": "lolocraftv:blocks/3fcepvi",
+    "particle": "lolocraftv:blocks/3fcepvi",
+    "0": "lolocraftv:blocks/new_trade",
+    "missing": "lolocraftv:blocks/new_trade"
+  }
+}

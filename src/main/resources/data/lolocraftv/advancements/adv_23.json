@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "lolocraftv:effektus"
+    },
+    "title": {
+      "translate": "advancements.adv_23.title"
+    },
+    "description": {
+      "translate": "advancements.adv_23.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "adv_23": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "parent": "lolocraftv:adv_22"
+}

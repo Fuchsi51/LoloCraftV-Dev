@@ -1,0 +1,104 @@
+{
+  "_fv": 34,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 250,
+    "height": 199,
+    "inventoryOffsetX": 40,
+    "inventoryOffsetY": 20,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Weapon Trader",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Weapon Trader",
+          "x": 179,
+          "y": 23
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Tools",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Tools",
+          "x": 91,
+          "y": 39
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Galaxy Sword (15 FC)",
+          "onClick": {
+            "name": "BUYGS"
+          },
+          "width": 124,
+          "height": 20,
+          "name": "Galaxy Sword (15 FC)",
+          "x": 90,
+          "y": 94
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Galaxy Explode Sword (15 FC)",
+          "onClick": {
+            "name": "BUYGES"
+          },
+          "width": 171,
+          "height": 20,
+          "name": "Galaxy Explode Sword (15 FC)",
+          "x": 90,
+          "y": 50
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Galaxy Multi Tool (15 FC)",
+          "onClick": {
+            "name": "BUYMULTI"
+          },
+          "width": 155,
+          "height": 20,
+          "name": "Galaxy Multi Tool (15 FC)",
+          "x": 90,
+          "y": 72
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Willi´s Magic Wand (1000 FC)",
+          "onClick": {
+            "name": "BUYMAGIC"
+          },
+          "width": 171,
+          "height": 20,
+          "name": "Willi´s Magic Wand (1000 FC)",
+          "x": 90,
+          "y": 117
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

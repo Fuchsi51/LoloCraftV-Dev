@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "lolocraftv:galaxyingot"
+    },
+    "1": {
+      "item": "lolocraftv:galaxyingot"
+    },
+    "2": {
+      "item": "lolocraftv:galaxyingot"
+    },
+    "3": {
+      "item": "lolocraftv:galaxyingot"
+    },
+    "5": {
+      "item": "lolocraftv:galaxyingot"
+    }
+  },
+  "result": {
+    "item": "lolocraftv:galaxy_armor_helmet",
+    "count": 1
+  }
+}

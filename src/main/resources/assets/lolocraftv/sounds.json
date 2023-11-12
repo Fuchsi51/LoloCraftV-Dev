@@ -1,0 +1,38 @@
+{
+  "galaxy_creeper_explode": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "lolocraftv:gc-explode",
+        "stream": false
+      }
+    ]
+  },
+  "galaxy_creeper_ambint": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "lolocraftv:gc-ambient",
+        "stream": false
+      }
+    ]
+  },
+  "galaxy_creeper_flint": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "lolocraftv:gc-flint",
+        "stream": false
+      }
+    ]
+  },
+  "galaxy_creeper_death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "lolocraftv:gc-death",
+        "stream": false
+      }
+    ]
+  }
+}

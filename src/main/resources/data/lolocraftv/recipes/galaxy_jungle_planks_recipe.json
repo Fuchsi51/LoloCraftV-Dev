@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:galaxy_jungle_log"
+    }
+  ],
+  "result": {
+    "item": "lolocraftv:galaxy_jungle_planks",
+    "count": 4
+  }
+}

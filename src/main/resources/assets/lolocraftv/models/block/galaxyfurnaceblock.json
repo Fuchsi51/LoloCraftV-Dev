@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "lolocraftv:blocks/sides",
+    "up": "lolocraftv:blocks/sides",
+    "north": "lolocraftv:blocks/3fcepvi",
+    "east": "lolocraftv:blocks/sides",
+    "south": "lolocraftv:blocks/sides",
+    "west": "lolocraftv:blocks/sides",
+    "particle": "lolocraftv:blocks/sides"
+  }
+}

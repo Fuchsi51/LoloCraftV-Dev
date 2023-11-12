@@ -1,0 +1,22 @@
+{
+  "group": "craftgalaxysleb",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "lolocraftv:galaxy_planks"
+    },
+    "1": {
+      "item": "lolocraftv:galaxy_planks"
+    },
+    "2": {
+      "item": "lolocraftv:galaxy_planks"
+    }
+  },
+  "result": {
+    "item": "lolocraftv:galaxy_slab",
+    "count": 3
+  }
+}

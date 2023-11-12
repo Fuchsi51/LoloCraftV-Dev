@@ -1,0 +1,113 @@
+{
+  "_fv": 34,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 233,
+    "height": 177,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Support us with",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Support us with",
+          "x": 175,
+          "y": 35
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "LoloCraft+",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "LoloCraft+",
+          "x": 187,
+          "y": 46
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "And you get:",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "And you get:",
+          "x": 100,
+          "y": 61
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "- LoloCraftV Beta",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "- LoloCraftV Beta",
+          "x": 100,
+          "y": 74
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "- LoloCraft DLCs",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "- LoloCraft DLCs",
+          "x": 100,
+          "y": 84
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "some other Stuff",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "some other Stuff",
+          "x": 100,
+          "y": 99
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "shop.lolocraft.de",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "shop.lolocraft.de",
+          "x": 168,
+          "y": 146
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

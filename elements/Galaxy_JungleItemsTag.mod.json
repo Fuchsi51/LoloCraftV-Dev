@@ -1,0 +1,21 @@
+{
+  "_fv": 34,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Galaxy_JungleWood"
+      },
+      {
+        "value": "CUSTOM:Galaxy_JungleLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "galaxy_jungle_log",
+    "namespace": "forge"
+  }
+}

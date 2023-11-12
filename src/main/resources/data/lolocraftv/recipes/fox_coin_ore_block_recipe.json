@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "lolocraftv:fox_coin"
+    },
+    "1": {
+      "item": "lolocraftv:fox_coin"
+    },
+    "2": {
+      "item": "lolocraftv:fox_coin"
+    },
+    "3": {
+      "item": "lolocraftv:fox_coin"
+    },
+    "4": {
+      "item": "lolocraftv:fox_coin"
+    },
+    "5": {
+      "item": "lolocraftv:fox_coin"
+    },
+    "6": {
+      "item": "lolocraftv:fox_coin"
+    },
+    "7": {
+      "item": "lolocraftv:fox_coin"
+    },
+    "8": {
+      "item": "lolocraftv:fox_coin"
+    }
+  },
+  "result": {
+    "item": "lolocraftv:fox_coin_block",
+    "count": 1
+  }
+}

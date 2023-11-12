@@ -1,0 +1,28 @@
+{
+  "group": "craftgalaxystairs",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "lolocraftv:galaxy_planks"
+    },
+    {
+      "item": "lolocraftv:galaxy_planks"
+    },
+    {
+      "item": "lolocraftv:galaxy_planks"
+    },
+    {
+      "item": "lolocraftv:galaxy_planks"
+    },
+    {
+      "item": "lolocraftv:galaxy_planks"
+    },
+    {
+      "item": "lolocraftv:galaxy_planks"
+    }
+  ],
+  "result": {
+    "item": "lolocraftv:galaxy_stairs",
+    "count": 4
+  }
+}

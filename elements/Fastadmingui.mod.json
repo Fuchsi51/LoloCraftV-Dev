@@ -1,0 +1,159 @@
+{
+  "_fv": 34,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 295,
+    "height": 205,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "LoloCraft FastAdmin",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "LoloCraft FastAdmin",
+          "x": 164,
+          "y": 21
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Change Gamemode to gm1",
+          "onClick": {
+            "name": "Gm1prod"
+          },
+          "width": 150,
+          "height": 20,
+          "name": "Change Gamemode to gm1",
+          "x": 70,
+          "y": 77
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Change Gamemode to gm2",
+          "onClick": {
+            "name": "Gm2prod"
+          },
+          "width": 150,
+          "height": 20,
+          "name": "Change Gamemode to gm2",
+          "x": 70,
+          "y": 99
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Change Gamemode to gm3",
+          "onClick": {
+            "name": "Gm3prod"
+          },
+          "width": 150,
+          "height": 20,
+          "name": "Change Gamemode to gm3",
+          "x": 70,
+          "y": 121
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Change Gamemode to gm0",
+          "onClick": {
+            "name": "Gm0prod"
+          },
+          "width": 150,
+          "height": 20,
+          "name": "Change Gamemode to gm0",
+          "x": 70,
+          "y": 55
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Gamemode",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Gamemode",
+          "x": 120,
+          "y": 44
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "World",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "World",
+          "x": 279,
+          "y": 45
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Change Time to Day",
+          "onClick": {
+            "name": "Timeday"
+          },
+          "width": 129,
+          "height": 20,
+          "name": "Change Time to Day",
+          "x": 228,
+          "y": 55
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Change Time to Night",
+          "onClick": {
+            "name": "Timenight"
+          },
+          "width": 139,
+          "height": 20,
+          "name": "Change Time to Night",
+          "x": 223,
+          "y": 77
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Turn off FastAdmin",
+          "onClick": {
+            "name": "Turnfastadminodd"
+          },
+          "width": 119,
+          "height": 20,
+          "name": "Turn off FastAdmin",
+          "x": 307,
+          "y": 220
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

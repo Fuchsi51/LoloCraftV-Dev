@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "lolocraftv:galaxyexplodesword"
+    },
+    "title": {
+      "translate": "advancements.adv_17.title"
+    },
+    "description": {
+      "translate": "advancements.adv_17.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "adv_17": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "parent": "lolocraftv:adv_07"
+}

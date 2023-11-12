@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="lolocraftv"
+version="5.1.0"
+displayName="LoloCraftV"
+credits="2023 Fuchsiii´s Mods"
+displayURL="https://v.lolocraft.de/"
+updateJSONURL="https://data.fuchsiii.de/lolocraft/update/Update.json"
+logoFile="logo.png"
+authors="Fuchsiii´s"
+description='''
+LoloCraftV is the best Mod of the LoloCraft Series
+'''
+
+[[dependencies.lolocraftv]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

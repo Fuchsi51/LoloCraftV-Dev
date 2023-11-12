@@ -1,0 +1,7 @@
+{
+  "_fv": 34,
+  "_type": "procedure",
+  "definition": {
+    "procedurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"event_trigger\" deletable=\"false\" x=\"472\" y=\"141\"><field name=\"trigger\">no_ext_trigger</field><next><block type=\"controls_if\"><value name=\"IF0\"><block type=\"logic_binary_ops\"><field name=\"OP\">EQ</field><value name=\"A\"><block type=\"world_data_logic_getgamerule\"><field name=\"gamerulesboolean\">CUSTOM:Lcdebug</field></block></value><value name=\"B\"><block type=\"logic_boolean\"><field name=\"BOOL\">TRUE</field></block></value></block></value><statement name=\"DO0\"><block type=\"console_log\"><field name=\"message_type\">debug</field><value name=\"message\"><block type=\"text\"><field name=\"TEXT\">[LC-V Debug Debug] </field></block></value></block></statement></block></next></block></xml>"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "lolocraftv:galaxyingot"
+    },
+    "3": {
+      "item": "lolocraftv:galaxyingot"
+    },
+    "4": {
+      "item": "minecraft:chest"
+    },
+    "5": {
+      "item": "lolocraftv:galaxyingot"
+    },
+    "7": {
+      "item": "lolocraftv:galaxyingot"
+    }
+  },
+  "result": {
+    "item": "lolocraftv:testchest",
+    "count": 1
+  }
+}

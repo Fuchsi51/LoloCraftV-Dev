@@ -1,0 +1,129 @@
+{
+  "_fv": 34,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 338,
+    "height": 220,
+    "inventoryOffsetX": 83,
+    "inventoryOffsetY": 29,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Buy some Stuff",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Buy some Stuff",
+          "x": 176,
+          "y": 14
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Weapons",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Weapons",
+          "x": 47,
+          "y": 38
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Explode Sword (15 FC)",
+          "width": 134,
+          "height": 20,
+          "name": "Explode Sword (15 FC)",
+          "x": 47,
+          "y": 49
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Galaxy Sword (7 FC)",
+          "width": 124,
+          "height": 20,
+          "name": "Galaxy Sword (7 FC)",
+          "x": 47,
+          "y": 72
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Tools",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Tools",
+          "x": 47,
+          "y": 106
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Galaxy Axe (5 FC)",
+          "width": 113,
+          "height": 20,
+          "name": "Galaxy Axe (5 FC)",
+          "x": 47,
+          "y": 162
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Galaxy Pickaxe (6 FC)",
+          "width": 134,
+          "height": 20,
+          "name": "Galaxy Pickaxe (6 FC)",
+          "x": 47,
+          "y": 116
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Galaxy Shovel (4 FC)",
+          "width": 129,
+          "height": 20,
+          "name": "Galaxy Shovel (4 FC)",
+          "x": 47,
+          "y": 139
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "You Inventory",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "You Inventory",
+          "x": 215,
+          "y": 139
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

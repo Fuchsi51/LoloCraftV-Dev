@@ -1,0 +1,71 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Custom Furnace",
+          "color": {
+            "value": -13421773,
+            "falpha": 0.0
+          },
+          "name": "Custom Furnace",
+          "x": 265,
+          "y": 84
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Fuel: <BNBT:integer:fuelRemaining>%",
+          "color": {
+            "value": -13421773,
+            "falpha": 0.0
+          },
+          "name": "Fuel: <BNBT:integer:fuelRemaining>%",
+          "x": 479,
+          "y": 85
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 0,
+          "name": "Slot #0",
+          "x": 337,
+          "y": 115
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 1,
+          "name": "Slot #1",
+          "x": 337,
+          "y": 187
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 2,
+          "name": "Slot #2",
+          "x": 481,
+          "y": 151
+        }
+      }
+    ]
+  }
+}

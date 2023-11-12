@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "lolocraftv:blocks/fox_coin_ore",
+    "particle": "lolocraftv:blocks/fox_coin_ore"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "lolocraftv:galaxysand"
+    },
+    "title": {
+      "translate": "advancements.adv_22.title"
+    },
+    "description": {
+      "translate": "advancements.adv_22.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "adv_22": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "biome": "lolocraftv:galaxy_desert"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "parent": "lolocraftv:adv_01"
+}

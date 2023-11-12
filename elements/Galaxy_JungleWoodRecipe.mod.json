@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Galaxy_JungleLog"
+      },
+      {
+        "value": "CUSTOM:Galaxy_JungleLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Galaxy_JungleLog"
+      },
+      {
+        "value": "CUSTOM:Galaxy_JungleLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Galaxy_JungleWood"
+    },
+    "name": "galaxy_jungle_wood_recipe",
+    "namespace": "mod"
+  }
+}

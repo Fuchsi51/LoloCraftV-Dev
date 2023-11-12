@@ -1,0 +1,62 @@
+{
+  "_fv": 34,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "galaxy_head",
+    "enableBody": true,
+    "textureBody": "galaxy_body",
+    "enableLeggings": true,
+    "textureLeggings": "galaxy_leggings",
+    "enableBoots": true,
+    "textureBoots": "galaxy_boots",
+    "creativeTab": {
+      "value": "CUSTOM:LoloCraftV"
+    },
+    "armorTextureFile": "galaxy",
+    "helmetName": "Galaxy Helmet",
+    "bodyName": "Galaxy Chestplate",
+    "leggingsName": "Galaxy Leggings",
+    "bootsName": "Galaxy Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 40,
+    "damageValueHelmet": 7,
+    "damageValueBody": 9,
+    "damageValueLeggings": 11,
+    "damageValueBoots": 5,
+    "enchantability": 25,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": "item.armor.equip_gold"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Galaxyingot"
+      }
+    ]
+  }
+}

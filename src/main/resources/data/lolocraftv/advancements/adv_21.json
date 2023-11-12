@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "lolocraftv:tradingblock"
+    },
+    "title": {
+      "translate": "advancements.adv_21.title"
+    },
+    "description": {
+      "translate": "advancements.adv_21.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "adv_21": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "parent": "lolocraftv:adv_03"
+}

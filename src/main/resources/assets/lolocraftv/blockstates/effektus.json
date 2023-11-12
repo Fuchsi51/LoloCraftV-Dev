@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "lolocraftv:block/effektus"
+    },
+    "facing=east": {
+      "model": "lolocraftv:block/effektus",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "lolocraftv:block/effektus",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "lolocraftv:block/effektus",
+      "y": 270
+    }
+  }
+}

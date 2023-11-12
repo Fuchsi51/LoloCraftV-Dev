@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "lolocraftv:block/tradingblock"
+    },
+    "facing=east": {
+      "model": "lolocraftv:block/tradingblock",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "lolocraftv:block/tradingblock",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "lolocraftv:block/tradingblock",
+      "y": 270
+    }
+  }
+}

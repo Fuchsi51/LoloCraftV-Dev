@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "lolocraftv:blocks/galaxy_jungle_planks",
+    "top": "lolocraftv:blocks/galaxy_jungle_planks",
+    "side": "lolocraftv:blocks/galaxy_jungle_planks"
+  }
+}

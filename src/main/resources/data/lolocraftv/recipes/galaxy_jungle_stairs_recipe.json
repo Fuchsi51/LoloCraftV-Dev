@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "lolocraftv:galaxy_jungle_planks"
+    },
+    "3": {
+      "item": "lolocraftv:galaxy_jungle_planks"
+    },
+    "4": {
+      "item": "lolocraftv:galaxy_jungle_planks"
+    },
+    "6": {
+      "item": "lolocraftv:galaxy_jungle_planks"
+    },
+    "7": {
+      "item": "lolocraftv:galaxy_jungle_planks"
+    },
+    "8": {
+      "item": "lolocraftv:galaxy_jungle_planks"
+    }
+  },
+  "result": {
+    "item": "lolocraftv:galaxy_jungle_stairs",
+    "count": 4
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "lolocraftv:blocks/purple_sand",
+    "particle": "lolocraftv:blocks/purple_sand"
+  }
+}

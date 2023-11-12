@@ -1,0 +1,9 @@
+{
+  "_fv": 34,
+  "_type": "command",
+  "definition": {
+    "commandName": "gm0",
+    "permissionLevel": "4",
+    "argsxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"args_start\" deletable=\"false\" x=\"659\" y=\"151\"><next><block type=\"call_procedure\"><field name=\"procedure\">Gm0prod</field></block></next></block></xml>"
+  }
+}

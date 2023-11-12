@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "lolocraftv:galaxydust"
+    },
+    "3": {
+      "item": "lolocraftv:galaxydust"
+    },
+    "4": {
+      "item": "lolocraftv:megagalaxydustbomb"
+    },
+    "5": {
+      "item": "lolocraftv:galaxydust"
+    },
+    "7": {
+      "item": "lolocraftv:galaxydust"
+    }
+  },
+  "result": {
+    "item": "lolocraftv:nuclea_galaxy_tnt",
+    "count": 1
+  }
+}

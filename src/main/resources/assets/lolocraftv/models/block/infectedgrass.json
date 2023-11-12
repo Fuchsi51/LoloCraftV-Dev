@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "lolocraftv:blocks/dirt",
+    "up": "lolocraftv:blocks/dirt",
+    "north": "lolocraftv:blocks/dirt",
+    "east": "lolocraftv:blocks/dirt",
+    "south": "lolocraftv:blocks/dirt",
+    "west": "lolocraftv:blocks/dirt",
+    "particle": "lolocraftv:blocks/dirt"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "lolocraftv:custom/galaxy_flower",
+  "textures": {
+    "all": "lolocraftv:blocks/galaxy_tnt_side",
+    "particle": "lolocraftv:blocks/galaxy_tnt_side",
+    "0": "lolocraftv:blocks/texture",
+    "1": "lolocraftv:blocks/tex2"
+  }
+}
