@@ -1,13 +1,4 @@
 {
-  "galaxy_creeper_explode": {
-    "category": "neutral",
-    "sounds": [
-      {
-        "name": "lolocraftv:gc-explode",
-        "stream": false
-      }
-    ]
-  },
   "galaxy_creeper_ambint": {
     "category": "neutral",
     "sounds": [
@@ -31,6 +22,15 @@
     "sounds": [
       {
         "name": "lolocraftv:gc-death",
+        "stream": false
+      }
+    ]
+  },
+  "galaxy_creeper_explode": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "lolocraftv:gc-explode",
         "stream": false
       }
     ]

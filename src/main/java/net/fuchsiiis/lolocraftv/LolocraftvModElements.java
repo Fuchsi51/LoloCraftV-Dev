@@ -47,14 +47,14 @@ public class LolocraftvModElements {
 	public static Map<ResourceLocation, net.minecraft.util.SoundEvent> sounds = new HashMap<>();
 
 	public LolocraftvModElements() {
-		sounds.put(new ResourceLocation("lolocraftv", "galaxy_creeper_explode"),
-				new net.minecraft.util.SoundEvent(new ResourceLocation("lolocraftv", "galaxy_creeper_explode")));
 		sounds.put(new ResourceLocation("lolocraftv", "galaxy_creeper_ambint"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("lolocraftv", "galaxy_creeper_ambint")));
 		sounds.put(new ResourceLocation("lolocraftv", "galaxy_creeper_flint"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("lolocraftv", "galaxy_creeper_flint")));
 		sounds.put(new ResourceLocation("lolocraftv", "galaxy_creeper_death"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("lolocraftv", "galaxy_creeper_death")));
+		sounds.put(new ResourceLocation("lolocraftv", "galaxy_creeper_explode"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("lolocraftv", "galaxy_creeper_explode")));
 		try {
 			ModFileScanData modFileInfo = ModList.get().getModFileById("lolocraftv").getFile().getScanResult();
 			Set<ModFileScanData.AnnotationData> annotations = modFileInfo.getAnnotations();

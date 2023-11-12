@@ -5,10 +5,10 @@
       "item": "lolocraftv:galaxygrass"
     },
     "title": {
-      "translate": "v.advancements.adv_01.title"
+      "translate": "advancements.adv_01.title"
     },
     "description": {
-      "translate": "v.advancements.adv_01.descr"
+      "translate": "advancements.adv_01.descr"
     },
     "frame": "goal",
     "show_toast": true,

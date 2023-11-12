@@ -20,6 +20,6 @@
     "parent": {
       "value": "No parent: root"
     },
-    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"biome_entered\" x=\"199\" y=\"85\"><field name=\"biome\">CUSTOM:Galaxybiom</field><next><block type=\"advancement_trigger\" deletable=\"false\"></block></next></block></xml>"
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"biome_entered\" x=\"282\" y=\"140\"><field name=\"biome\">CUSTOM:Galaxybiom</field><next><block type=\"advancement_trigger\" deletable=\"false\"></block></next></block></xml>"
   }
 }
