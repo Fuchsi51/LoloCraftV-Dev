@@ -2750,6 +2750,24 @@
       "locked_code": false,
       "registry_name": "craftwoodaxe",
       "path": "~/Biom/Galaxy Biom/Blocks"
+    },
+    {
+      "name": "NYANCAT",
+      "type": "item",
+      "sortid": 240,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nyancat",
+      "path": "~/eg/mariethekitten"
+    },
+    {
+      "name": "NYANCATENTETITY",
+      "type": "livingentity",
+      "sortid": 241,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nyancatentetity",
+      "path": "~/eg/mariethekitten"
     }
   ],
   "variable_elements": [
@@ -2841,6 +2859,7 @@
       "item.lolocraftv.galaxydust": "Galaxydust",
       "entity.lolocraftv.willi": "Willi",
       "item.lolocraftv.galaxy_multi_tool": "Galaxy Multi Tool",
+      "entity.lolocraftv.nyancatentetity": "NYANCATENTETITY",
       "biome.lolocraftv.galaxy_hills": "Galaxy Hills",
       "block.lolocraftv.nuclea_galaxy_tnt": "Nuclea Galaxy TNT",
       "item.lolocraftv.galaxy_armor_leggings": "Galaxy Leggings",
@@ -2954,6 +2973,7 @@
       "subtitles.galaxy_creeper_explode": "",
       "block.lolocraftv.struckture_lucky_block": "Struckture Lucky Block",
       "bombwarning.nuclea-tnt.10": "[LC-Bomb-Warning] Explosion in 10 seconds!",
+      "item.lolocraftv.nyancatentetity_spawn_egg": "NYANCATENTETITY Spawn Egg",
       "block.lolocraftv.galaxy_jungle_leaves": "Galaxy Jungle Leaves",
       "block.lolocraftv.plantgalaxytree": "Plantgalaxytree",
       "bombwarning.nuclea-tnt.0": "[LC-Bomb-Warning] Explosion in 0 seconds!",
@@ -2965,6 +2985,7 @@
       "advancements.adv_18.descr": "Find a Galaxy Loot Block",
       "block.lolocraftv.galaxy_button": "Galaxy Button",
       "gamerule.lcbombwarning.description": "A message is displayed when a bomb is detonated.",
+      "item.lolocraftv.nyancat": "NYANCAT",
       "gamerule.lcdebug": "[LC-V] Debug",
       "block.lolocraftv.galaxy_jungle_fence_gate": "Galaxy Jungle Fence Gate",
       "entity.lolocraftv.galaxy_jungle_creeper": "Galaxy Jungle Creeper",
@@ -3019,6 +3040,7 @@
       "item.lolocraftv.galaxydust": "Galaxy Staub",
       "entity.lolocraftv.willi": "Willi",
       "item.lolocraftv.galaxy_multi_tool": "Galaxy Multi Tool",
+      "entity.lolocraftv.nyancatentetity": "NYANCATENTETITY",
       "biome.lolocraftv.galaxy_hills": "Galaxy Hills",
       "block.lolocraftv.nuclea_galaxy_tnt": "Nuclea Galaxy TNT",
       "item.lolocraftv.galaxy_armor_leggings": "Galaxy Hose",
@@ -3131,6 +3153,7 @@
       "subtitles.galaxy_creeper_explode": "",
       "block.lolocraftv.struckture_lucky_block": "Struckture Lucky Block",
       "bombwarning.nuclea-tnt.10": "[LC-Bomben-Warnung] Explosion in 10 Sekunden!",
+      "item.lolocraftv.nyancatentetity_spawn_egg": "NYANCATENTETITY Spawn Egg",
       "block.lolocraftv.galaxy_jungle_leaves": "Galaxy Jungle Leaves",
       "block.lolocraftv.plantgalaxytree": "Plantgalaxytree",
       "bombwarning.nuclea-tnt.0": "[LC-Bomben-Warnung] Explosion in 0 Sekunden!",
@@ -3142,6 +3165,7 @@
       "advancements.adv_18.descr": "find a Galaxy Loot Block",
       "block.lolocraftv.galaxy_button": "Galaxy Knopf",
       "gamerule.lcbombwarning.description": "A message is displayed when a bomb is detonated.",
+      "item.lolocraftv.nyancat": "NYANCAT",
       "gamerule.lcdebug": "[LC-V] Debug",
       "block.lolocraftv.galaxy_jungle_fence_gate": "Galaxy Jungle Fence Gate",
       "entity.lolocraftv.galaxy_jungle_creeper": "Galaxy Jungle Creeper",
@@ -3429,6 +3453,19 @@
       {
         "name": "virus",
         "children": []
+      },
+      {
+        "name": "eg",
+        "children": [
+          {
+            "name": "mariethekitten",
+            "children": []
+          },
+          {
+            "name": "fuchsiii",
+            "children": []
+          }
+        ]
       }
     ]
   },
