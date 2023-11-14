@@ -2723,6 +2723,33 @@
       "locked_code": false,
       "registry_name": "post",
       "path": "~/MOD_TRADER/TRADER_WEAPON/GUI"
+    },
+    {
+      "name": "Craftwoodpickaxe",
+      "type": "recipe",
+      "sortid": 237,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftwoodpickaxe",
+      "path": "~/Biom/Galaxy Biom/Blocks"
+    },
+    {
+      "name": "Craftwoodsword",
+      "type": "recipe",
+      "sortid": 238,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftwoodsword",
+      "path": "~/Biom/Galaxy Biom/Blocks"
+    },
+    {
+      "name": "Craftwoodaxe",
+      "type": "recipe",
+      "sortid": 239,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftwoodaxe",
+      "path": "~/Biom/Galaxy Biom/Blocks"
     }
   ],
   "variable_elements": [
